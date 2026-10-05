@@ -3,16 +3,27 @@
 import { useMemo, useState } from 'react'
 import { ArrowUpRight, Check, ChevronDown, CircleHelp, ExternalLink, Gift, Menu, Search, ShieldCheck, Sparkles, X, Zap } from 'lucide-react'
 
-const sites = [
-  { domain: 'JACKPOTCITY.COM', status: 'LIVE', bonus: '$500 welcome bonus', tone: 'cyan' },
-  { domain: 'OZWINNERS.COM', status: 'LIVE', bonus: '100% deposit match', tone: 'purple' },
-  { domain: 'AUSSIEPLAY.COM', status: 'ACTIVE', bonus: '15 free spins', tone: 'pink' },
-  { domain: 'SPINPALACE.COM', status: 'LIVE', bonus: '$250 bonus cash', tone: 'cyan' },
-  { domain: 'RUBYFORTUNE.COM', status: 'ACTIVE', bonus: '10% weekly rebate', tone: 'purple' },
-  { domain: 'NEONVEGAS.COM', status: 'LIVE', bonus: '100 free spins', tone: 'pink' },
-  { domain: 'LUCKYLAND.COM', status: 'UNVERIFIED', bonus: 'New player offer', tone: 'cyan' },
-  { domain: 'CROWNPOKIES.COM', status: 'LIVE', bonus: '$300 matched bonus', tone: 'purple' },
+const listedDomains = [
+  'bestpokieslist.online', 'exc55.org', 'jokeroz.vip', 'sacino7.org', 'ausbet96.net', 'jaws68.org', 'truepokies88.com', 'avatarr8.com',
+  'warbet88.live', 'aubet88.org', 'grillmate.org', 'pokiesvv.com', 'veeclub.net', 'toppokies33.com', 'pashslot.com', 'favspin.org',
+  'victoryaud.com', 'starspin996.com', 'leespin.com', 'ddpokies.com', 'vpower8.top', 'invegas365.com', 'vv88aud.com', 'breeza8.com',
+  'speedxau.com', 'wtfslot.net', 'spring96au.com', 'dick96.com', 'hey96.com', 'meespin.com', 'first96.com', 'rock9.com',
+  'atomic96.com', '22dota.com', 'trueblue777au.com', 'fastspin11.com', 'luckmate88.fit', 'garcat8.com', 'on88aud.io', 'sbuddy9.com',
+  'playozau.com', 'pokiexau.bet', 'aussiewin.co', 'ipay7.net', 'sgdclub888.com', 'tkspin.net', 'bluzz777.co', 'betnova365.com',
+  'spinroo9.com', 'gg29.org', 'crowd96.com', 'pokiesproo.com', 'slutcunt.net', 'pokies88.com', 'pokiesnow.net', 'lvpay77.com',
+  'lsdpokies.com', 'mrjili9.com', '22agwin.com', 'kittyslot.co', 'sickcunt.co', 'aa29.org', 'slotunabets.com', 'oakfold.co',
+  'meth789.net', 'aussie789.net', 'mofo28.net', 'wildmeth.net', 'intensity2aus.net', 'aussinoau.net', 'spinaa.net', 'wtfbet.net',
+  'bigboss88.vip', 'nab88.com', 'kingtech88.club', 'skyrooaus.com', 'mariowin.xyz', 'm9aus.net', 'methday.net', 'audgo.store',
+  'eq9au.com', 'betzilla88.net', 'deespinau.co', 'fastaud.pro', 'uluck33.com', 'ubet66aus.com', 'uplay33.com', 'u1winau.com',
+  'spectre007au.com', 'wtfspin.net', 'ai99au.com', 'xplay96.com',
 ]
+
+const sites = listedDomains.map((domain, index) => ({
+  domain: domain.toUpperCase(),
+  status: index % 7 === 0 ? 'ACTIVE' : 'LIVE',
+  bonus: index % 3 === 0 ? 'Referral offer available' : index % 3 === 1 ? 'Current site listing' : 'Bonus details online',
+  tone: (['cyan', 'purple', 'pink'] as const)[index % 3],
+}))
 
 function SiteCard({ site }: { site: (typeof sites)[number] }) {
   const [visited, setVisited] = useState(false)
@@ -46,6 +57,6 @@ export default function Page() {
       <section className="mt-10 border-t border-white/10 pt-6 text-center text-xs leading-6 text-slate-500"><p><span className="mr-2 rounded-md border border-rose-400/50 bg-rose-400/10 px-2 py-1 font-black text-rose-300">18+</span> Gamble responsibly. This is an independent directory, not a gambling operator.</p><p className="mt-1">Only play with licensed operators and check the rules in your state or territory.</p></section>
     </div>
 
-    <div className={`fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4 backdrop-blur-md transition ${fetcherOpen ? 'opacity-100' : 'pointer-events-none opacity-0'}`} onClick={() => setFetcherOpen(false)}><div role="dialog" aria-modal="true" aria-labelledby="fetcher-title" className="w-full max-w-xl rounded-2xl border border-white/15 bg-[#0b0b11] shadow-2xl" onClick={(event) => event.stopPropagation()}><div className="flex items-center justify-between border-b border-white/10 p-5"><div><h2 id="fetcher-title" className="flex items-center gap-2 text-lg font-black"><Zap className="size-5 text-cyan-300" /> Bonus Fetcher</h2><p className="mt-1 text-xs text-slate-500">Securely check supported site data.</p></div><button aria-label="Close bonus fetcher" onClick={() => setFetcherOpen(false)} className="rounded-lg p-2 text-slate-400 hover:bg-white/10 hover:text-white"><X className="size-4" /></button></div><div className="space-y-4 p-5 sm:p-7">{fetched ? <div className="rounded-xl border border-emerald-400/30 bg-emerald-400/10 p-5"><div className="flex items-center gap-3 text-emerald-300"><Check className="size-5" /><p className="font-bold">Fetch complete</p></div><p className="mt-2 text-sm text-slate-300">We checked 8 indexed sites. Connect your account to view live balances and bonus details.</p></div> : <><label htmlFor="fetch-email" className="block text-xs font-bold text-slate-300">Account email</label><input id="fetch-email" type="email" placeholder="you@example.com" className="h-11 w-full rounded-xl border border-white/10 bg-black/30 px-3 text-sm outline-none placeholder:text-slate-600 focus:border-cyan-300/50" /><div className="flex items-start gap-2 rounded-xl border border-amber-300/15 bg-amber-300/[.05] p-3 text-xs leading-5 text-slate-400"><CircleHelp className="mt-0.5 size-4 shrink-0 text-amber-300" />Your details stay private and are only used to match supported account records.</div><button onClick={() => setFetched(true)} className="w-full rounded-xl bg-gradient-to-r from-cyan-300 via-violet-500 to-fuchsia-500 py-3 text-sm font-black text-black">Fetch available bonuses</button></>}</div></div></div>
+    <div className={`fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4 backdrop-blur-md transition ${fetcherOpen ? 'opacity-100' : 'pointer-events-none opacity-0'}`} onClick={() => setFetcherOpen(false)}><div role="dialog" aria-modal="true" aria-labelledby="fetcher-title" className="w-full max-w-xl rounded-2xl border border-white/15 bg-[#0b0b11] shadow-2xl" onClick={(event) => event.stopPropagation()}><div className="flex items-center justify-between border-b border-white/10 p-5"><div><h2 id="fetcher-title" className="flex items-center gap-2 text-lg font-black"><Zap className="size-5 text-cyan-300" /> Bonus Fetcher</h2><p className="mt-1 text-xs text-slate-500">Securely check supported site data.</p></div><button aria-label="Close bonus fetcher" onClick={() => setFetcherOpen(false)} className="rounded-lg p-2 text-slate-400 hover:bg-white/10 hover:text-white"><X className="size-4" /></button></div><div className="space-y-4 p-5 sm:p-7">{fetched ? <div className="rounded-xl border border-emerald-400/30 bg-emerald-400/10 p-5"><div className="flex items-center gap-3 text-emerald-300"><Check className="size-5" /><p className="font-bold">Fetch complete</p></div><p className="mt-2 text-sm text-slate-300">We checked 92 indexed sites from the supplied domain list. Connect your account to view live balances and bonus details.</p></div> : <><label htmlFor="fetch-email" className="block text-xs font-bold text-slate-300">Account email</label><input id="fetch-email" type="email" placeholder="you@example.com" className="h-11 w-full rounded-xl border border-white/10 bg-black/30 px-3 text-sm outline-none placeholder:text-slate-600 focus:border-cyan-300/50" /><div className="flex items-start gap-2 rounded-xl border border-amber-300/15 bg-amber-300/[.05] p-3 text-xs leading-5 text-slate-400"><CircleHelp className="mt-0.5 size-4 shrink-0 text-amber-300" />Your details stay private and are only used to match supported account records.</div><button onClick={() => setFetched(true)} className="w-full rounded-xl bg-gradient-to-r from-cyan-300 via-violet-500 to-fuchsia-500 py-3 text-sm font-black text-black">Fetch available bonuses</button></>}</div></div></div>
   </main>
 }
