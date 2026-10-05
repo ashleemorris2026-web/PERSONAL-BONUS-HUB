@@ -1,76 +1,51 @@
 'use client'
 
-import { useState } from 'react'
-import {
-  ArrowUpRight,
-  Bell,
-  ChevronDown,
-  CircleHelp,
-  CreditCard,
-  Gift,
-  LayoutDashboard,
-  MoreHorizontal,
-  Plus,
-  RefreshCw,
-  Search,
-  Settings2,
-  Sparkles,
-  WalletCards,
-  Zap,
-} from 'lucide-react'
+import { useMemo, useState } from 'react'
+import { ArrowUpRight, Check, ChevronDown, CircleHelp, ExternalLink, Gift, Menu, Search, ShieldCheck, Sparkles, X, Zap } from 'lucide-react'
 
-const programs = [
-  { name: 'Chase Sapphire', type: 'Credit card', points: '84,260', value: '$842.60', color: 'bg-blue-500', icon: 'C' },
-  { name: 'Amex Membership Rewards', type: 'Credit card', points: '61,480', value: '$614.80', color: 'bg-sky-400', icon: 'A' },
-  { name: 'Delta SkyMiles', type: 'Airline', points: '32,850', value: '$328.50', color: 'bg-indigo-500', icon: 'D' },
-  { name: 'Marriott Bonvoy', type: 'Hotel', points: '18,420', value: '$147.36', color: 'bg-rose-500', icon: 'M' },
+const sites = [
+  { domain: 'JACKPOTCITY.COM', status: 'LIVE', bonus: '$500 welcome bonus', tone: 'cyan' },
+  { domain: 'OZWINNERS.COM', status: 'LIVE', bonus: '100% deposit match', tone: 'purple' },
+  { domain: 'AUSSIEPLAY.COM', status: 'ACTIVE', bonus: '15 free spins', tone: 'pink' },
+  { domain: 'SPINPALACE.COM', status: 'LIVE', bonus: '$250 bonus cash', tone: 'cyan' },
+  { domain: 'RUBYFORTUNE.COM', status: 'ACTIVE', bonus: '10% weekly rebate', tone: 'purple' },
+  { domain: 'NEONVEGAS.COM', status: 'LIVE', bonus: '100 free spins', tone: 'pink' },
+  { domain: 'LUCKYLAND.COM', status: 'UNVERIFIED', bonus: 'New player offer', tone: 'cyan' },
+  { domain: 'CROWNPOKIES.COM', status: 'LIVE', bonus: '$300 matched bonus', tone: 'purple' },
 ]
 
-const activity = [
-  { name: 'Chase Sapphire', detail: 'Balance synced', time: 'Today, 9:42 AM', amount: '+2,450 pts', color: 'bg-blue-500' },
-  { name: 'Delta SkyMiles', detail: 'Balance synced', time: 'Yesterday, 6:18 PM', amount: '+1,200 pts', color: 'bg-indigo-500' },
-  { name: 'Marriott Bonvoy', detail: 'Redemption', time: 'Jun 18, 2024', amount: '-15,000 pts', color: 'bg-rose-500' },
-]
+function SiteCard({ site }: { site: (typeof sites)[number] }) {
+  const [visited, setVisited] = useState(false)
+  return (
+    <a href={`https://${site.domain.toLowerCase()}`} target="_blank" rel="noreferrer" onClick={() => setVisited(true)} className={`group flex items-center gap-3 rounded-xl border p-3 transition hover:-translate-y-0.5 ${visited ? 'opacity-60' : ''} ${site.tone === 'cyan' ? 'border-cyan-400/20 bg-cyan-400/[0.035]' : site.tone === 'purple' ? 'border-violet-400/20 bg-violet-400/[0.035]' : 'border-fuchsia-400/20 bg-fuchsia-400/[0.035]'}`}>
+      <div className="flex size-10 shrink-0 items-center justify-center rounded-lg border border-white/10 bg-[#15151d] text-sm font-black text-cyan-300">{site.domain[0]}</div>
+      <div className="min-w-0 flex-1"><div className="flex items-center gap-2"><p className="truncate text-sm font-extrabold text-white group-hover:text-cyan-300">{site.domain}</p><span className={`rounded px-1.5 py-0.5 text-[9px] font-extrabold ${site.status === 'LIVE' ? 'bg-emerald-400/15 text-emerald-300' : site.status === 'ACTIVE' ? 'bg-cyan-400/15 text-cyan-300' : 'bg-amber-400/15 text-amber-300'}`}>{site.status}</span></div><p className="mt-1 truncate text-[11px] text-fuchsia-200/80">{site.bonus}</p></div>
+      <ExternalLink className="size-4 shrink-0 text-slate-600 transition group-hover:text-cyan-300" />
+    </a>
+  )
+}
 
 export default function Page() {
-  const [activeTab, setActiveTab] = useState('Overview')
-  const [synced, setSynced] = useState(false)
+  const [query, setQuery] = useState('')
+  const [fetcherOpen, setFetcherOpen] = useState(false)
+  const [fetched, setFetched] = useState(false)
+  const filteredSites = useMemo(() => sites.filter((site) => site.domain.toLowerCase().includes(query.toLowerCase())), [query])
 
-  return (
-    <main className="min-h-screen bg-[#0b0f14] text-slate-100">
-      <aside className="fixed inset-y-0 left-0 hidden w-[232px] border-r border-white/[0.07] bg-[#0d1218] px-4 py-5 lg:block">
-        <div className="flex items-center gap-2.5 px-2">
-          <div className="flex size-8 items-center justify-center rounded-lg bg-emerald-400 text-black"><Gift className="size-[18px]" strokeWidth={2.5} /></div>
-          <span className="text-[15px] font-semibold tracking-tight">Bonus<span className="text-emerald-400">Hub</span></span>
-        </div>
-        <div className="mt-9 space-y-1">
-          <p className="px-3 pb-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-500">Workspace</p>
-          {[
-            { label: 'Overview', icon: LayoutDashboard },
-            { label: 'My programs', icon: WalletCards },
-            { label: 'Opportunities', icon: Sparkles },
-          ].map(({ label, icon: Icon }) => <button key={label} onClick={() => setActiveTab(label)} className={`flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-[13px] transition ${activeTab === label ? 'bg-emerald-400/10 font-medium text-emerald-300' : 'text-slate-400 hover:bg-white/[0.04] hover:text-slate-200'}`}><Icon className="size-[17px]" />{label}{label === 'Opportunities' && <span className="ml-auto rounded-full bg-emerald-400/15 px-1.5 py-0.5 text-[10px] text-emerald-300">3</span>}</button>)}
-        </div>
-        <div className="mt-8 space-y-1">
-          <p className="px-3 pb-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-500">Manage</p>
-          {[{ label: 'Sync adapters', icon: RefreshCw }, { label: 'Settings', icon: Settings2 }].map(({ label, icon: Icon }) => <button key={label} className="flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-[13px] text-slate-400 transition hover:bg-white/[0.04] hover:text-slate-200"><Icon className="size-[17px]" />{label}</button>)}
-        </div>
-        <div className="absolute bottom-5 left-4 right-4 rounded-xl border border-white/[0.07] bg-white/[0.025] p-3"><div className="flex items-center gap-2"><div className="flex size-7 items-center justify-center rounded-full bg-gradient-to-br from-amber-300 to-orange-500 text-[11px] font-bold text-orange-950">AM</div><div className="min-w-0"><p className="truncate text-xs font-medium text-slate-200">Alex Morgan</p><p className="truncate text-[10px] text-slate-500">Personal account</p></div><MoreHorizontal className="ml-auto size-4 text-slate-500" /></div></div>
-      </aside>
+  return <main className="min-h-screen bg-black text-white selection:bg-fuchsia-500/30">
+    <div className="mx-auto w-full max-w-[1180px] px-4 pb-12 pt-5 sm:px-6">
+      <header className="flex flex-wrap items-center justify-between gap-4 py-2"><div className="flex items-center gap-3"><div className="flex size-10 items-center justify-center rounded-xl bg-gradient-to-br from-cyan-300 via-violet-500 to-fuchsia-500 text-black shadow-[0_0_24px_rgba(0,229,255,.22)]"><Gift className="size-5" /></div><div><p className="text-sm font-black tracking-tight">POKIE<span className="text-cyan-300">FETCH</span></p><p className="text-[10px] uppercase tracking-[.18em] text-slate-500">Australia&apos;s site index</p></div></div><div className="flex items-center gap-2"><button onClick={() => setFetcherOpen(true)} className="flex items-center gap-2 rounded-xl bg-gradient-to-r from-cyan-300 via-violet-500 to-fuchsia-500 px-4 py-2.5 text-xs font-black text-black shadow-[0_0_25px_rgba(123,92,255,.25)]"><Zap className="size-3.5" /> Bonus Fetcher</button><button className="rounded-xl border border-white/10 bg-white/[.04] p-2.5 text-slate-300 sm:hidden"><Menu className="size-4" /></button></div></header>
 
-      <section className="lg:pl-[232px]">
-        <header className="flex h-[68px] items-center justify-between border-b border-white/[0.07] px-5 sm:px-8"><div className="flex items-center gap-3 lg:hidden"><div className="flex size-8 items-center justify-center rounded-lg bg-emerald-400 text-black"><Gift className="size-[18px]" /></div></div><div className="hidden items-center gap-2 text-sm text-slate-400 sm:flex"><span>Workspace</span><span className="text-slate-600">/</span><span className="text-slate-200">Overview</span></div><div className="ml-auto flex items-center gap-2"><button className="rounded-lg p-2 text-slate-400 hover:bg-white/[0.05] hover:text-slate-200"><Search className="size-[18px]" /></button><button className="relative rounded-lg p-2 text-slate-400 hover:bg-white/[0.05] hover:text-slate-200"><Bell className="size-[18px]" /><span className="absolute right-1.5 top-1.5 size-1.5 rounded-full bg-emerald-400" /></button><div className="ml-2 hidden h-5 w-px bg-white/10 sm:block" /><button className="ml-1 flex items-center gap-2 rounded-lg px-2 py-1.5 text-xs text-slate-300 hover:bg-white/[0.05]"><span className="flex size-6 items-center justify-center rounded-full bg-gradient-to-br from-amber-300 to-orange-500 text-[9px] font-bold text-orange-950">AM</span><ChevronDown className="size-3.5 text-slate-500" /></button></div></header>
+      <section className="py-12 sm:py-16"><div className="max-w-3xl"><div className="mb-4 inline-flex items-center gap-2 rounded-full border border-cyan-400/20 bg-cyan-400/[.06] px-3 py-1.5 text-[10px] font-extrabold uppercase tracking-[.14em] text-cyan-300"><Sparkles className="size-3" /> Updated daily</div><h1 className="text-4xl font-black leading-[1.04] tracking-[-.04em] sm:text-6xl">THE BEST <span className="bg-gradient-to-r from-cyan-300 via-violet-500 to-fuchsia-500 bg-clip-text text-transparent">POKIE SITES</span> IN AUSTRALIA</h1><p className="mt-5 max-w-2xl text-sm leading-6 text-slate-400 sm:text-base">Browse the latest Australian pokie sites, compare current offers, and use one secure fetch to check your available bonus data.</p></div></section>
 
-        <div className="mx-auto max-w-[1180px] px-5 py-8 sm:px-8 sm:py-10">
-          <div className="mb-8 flex flex-col justify-between gap-5 sm:flex-row sm:items-end"><div><p className="mb-2 text-xs font-medium text-emerald-400">Tuesday, June 25, 2024</p><h1 className="text-2xl font-semibold tracking-tight text-white sm:text-[28px]">Good morning, Alex</h1><p className="mt-1.5 text-sm text-slate-400">Here&apos;s how your rewards are looking today.</p></div><button onClick={() => { setSynced(true); setTimeout(() => setSynced(false), 1800) }} className="flex w-fit items-center gap-2 rounded-lg bg-emerald-400 px-3.5 py-2.5 text-xs font-semibold text-black shadow-[0_0_24px_rgba(52,211,153,0.12)] transition hover:bg-emerald-300"><RefreshCw className={`size-3.5 ${synced ? 'animate-spin' : ''}`} />{synced ? 'Syncing programs...' : 'Sync all programs'}</button></div>
+      <div className="sticky top-3 z-30 mb-8 rounded-2xl border border-white/10 bg-[#09090bf2] p-2 shadow-2xl backdrop-blur-xl"><div className="flex flex-wrap items-center gap-2"><button className="flex items-center gap-2 rounded-xl border border-cyan-300/40 bg-cyan-300/10 px-3 py-2.5 text-xs font-bold text-cyan-200"><ShieldCheck className="size-3.5" /> Trusted sites <ChevronDown className="size-3" /></button><div className="relative min-w-[220px] flex-1"><Search className="absolute left-3 top-1/2 size-4 -translate-y-1/2 text-slate-500" /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search a domain..." className="h-10 w-full rounded-xl border border-white/10 bg-white/[.035] pl-10 pr-4 text-sm text-white outline-none placeholder:text-slate-600 focus:border-cyan-300/50" /></div><span className="w-full border-t border-white/[.06] px-2 pt-2 text-[11px] text-slate-500 sm:w-auto sm:border-0 sm:p-0">Showing <strong className="text-white">{filteredSites.length}</strong> sites <span className="ml-3 text-emerald-300">● Live index</span></span></div></div>
 
-          <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4"><div className="rounded-xl border border-emerald-400/20 bg-gradient-to-br from-emerald-400/[0.11] to-transparent p-5"><div className="mb-6 flex items-center justify-between"><span className="text-xs font-medium text-emerald-200/75">Total rewards value</span><div className="rounded-md bg-emerald-400/15 p-1.5 text-emerald-300"><WalletCards className="size-4" /></div></div><p className="text-2xl font-semibold tracking-tight text-white">$1,933.26</p><p className="mt-1.5 text-xs text-emerald-300"><span className="font-medium">+8.4%</span> <span className="text-emerald-200/50">from last month</span></p></div><div className="rounded-xl border border-white/[0.08] bg-white/[0.025] p-5"><div className="mb-6 flex items-center justify-between"><span className="text-xs font-medium text-slate-400">Total points</span><div className="rounded-md bg-white/[0.06] p-1.5 text-slate-400"><Zap className="size-4" /></div></div><p className="text-2xl font-semibold tracking-tight text-white">197,010</p><p className="mt-1.5 text-xs text-slate-500">Across 4 programs</p></div><div className="rounded-xl border border-white/[0.08] bg-white/[0.025] p-5"><div className="mb-6 flex items-center justify-between"><span className="text-xs font-medium text-slate-400">Active programs</span><div className="rounded-md bg-white/[0.06] p-1.5 text-slate-400"><CreditCard className="size-4" /></div></div><p className="text-2xl font-semibold tracking-tight text-white">4</p><p className="mt-1.5 text-xs text-slate-500">All synced recently</p></div><div className="rounded-xl border border-white/[0.08] bg-white/[0.025] p-5"><div className="mb-6 flex items-center justify-between"><span className="text-xs font-medium text-slate-400">Best opportunity</span><div className="rounded-md bg-amber-400/10 p-1.5 text-amber-300"><Sparkles className="size-4" /></div></div><p className="text-2xl font-semibold tracking-tight text-white">$120</p><p className="mt-1.5 text-xs text-slate-500">Amex welcome offer</p></div></div>
+      <section><div className="mb-3 flex items-center justify-between"><div><h2 className="text-lg font-black">Popular pokie sites <span className="ml-1 rounded-full bg-white/[.08] px-2 py-1 text-xs text-slate-400">{filteredSites.length}</span></h2><p className="mt-1 text-xs text-slate-500">Quick links to currently indexed operators</p></div><button onClick={() => setFetcherOpen(true)} className="hidden items-center gap-1 text-xs font-bold text-cyan-300 sm:flex">Check bonuses <ArrowUpRight className="size-3.5" /></button></div><div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">{filteredSites.map((site) => <SiteCard key={site.domain} site={site} />)}</div></section>
 
-          <div className="mt-8 grid gap-6 xl:grid-cols-[1.35fr_1fr]"><section className="rounded-xl border border-white/[0.08] bg-white/[0.02]"><div className="flex items-center justify-between border-b border-white/[0.07] px-5 py-4"><div><h2 className="text-sm font-semibold text-white">Your programs</h2><p className="mt-1 text-xs text-slate-500">Balances and estimated values</p></div><button className="flex items-center gap-1.5 rounded-lg border border-white/[0.1] px-2.5 py-1.5 text-xs font-medium text-slate-300 hover:bg-white/[0.05]"><Plus className="size-3.5" />Add program</button></div><div className="divide-y divide-white/[0.06]">{programs.map((program) => <div key={program.name} className="flex items-center gap-3 px-5 py-4"><div className={`flex size-9 shrink-0 items-center justify-center rounded-lg ${program.color} text-xs font-bold text-white`}>{program.icon}</div><div className="min-w-0 flex-1"><p className="truncate text-[13px] font-medium text-slate-200">{program.name}</p><p className="mt-0.5 text-[11px] text-slate-500">{program.type}</p></div><div className="text-right"><p className="text-[13px] font-medium text-slate-200">{program.points}</p><p className="mt-0.5 text-[11px] text-slate-500">{program.value} est.</p></div><button className="ml-2 rounded p-1 text-slate-600 hover:text-slate-300"><MoreHorizontal className="size-4" /></button></div>)}</div><button className="flex w-full items-center justify-center gap-1 border-t border-white/[0.07] py-3 text-xs font-medium text-emerald-400 hover:bg-emerald-400/[0.04]">View all programs <ArrowUpRight className="size-3.5" /></button></section>
+      <section className="mt-12 rounded-2xl border border-violet-400/20 bg-gradient-to-br from-violet-500/[.12] via-[#0b0b12] to-fuchsia-500/[.06] p-5 sm:p-7"><div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-center"><div><p className="mb-2 text-[10px] font-black uppercase tracking-[.16em] text-cyan-300">One fetch. Every supported site.</p><h2 className="text-2xl font-black tracking-tight">Your bonus data, in one place.</h2><p className="mt-2 max-w-xl text-sm leading-6 text-slate-400">Check balances, commission, share, referral, rebate and available bonus data without opening every site individually.</p></div><button onClick={() => setFetcherOpen(true)} className="flex shrink-0 items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-cyan-300 via-violet-500 to-fuchsia-500 px-5 py-3 text-sm font-black text-black"><Zap className="size-4" /> Open Bonus Fetcher</button></div></section>
 
-          <section className="rounded-xl border border-white/[0.08] bg-white/[0.02]"><div className="flex items-center justify-between border-b border-white/[0.07] px-5 py-4"><div><h2 className="text-sm font-semibold text-white">Recent activity</h2><p className="mt-1 text-xs text-slate-500">Your latest reward movements</p></div><button className="text-xs font-medium text-slate-400 hover:text-slate-200">See all</button></div><div className="divide-y divide-white/[0.06]">{activity.map((item) => <div key={item.name + item.time} className="flex items-center gap-3 px-5 py-4"><div className={`size-2 rounded-full ${item.color}`} /><div className="min-w-0 flex-1"><p className="truncate text-[13px] text-slate-300">{item.name}</p><p className="mt-0.5 text-[11px] text-slate-500">{item.detail} · {item.time}</p></div><span className={`text-xs font-medium ${item.amount.startsWith('-') ? 'text-slate-400' : 'text-emerald-400'}`}>{item.amount}</span></div>)}</div><div className="m-4 flex gap-3 rounded-lg border border-amber-300/10 bg-amber-300/[0.04] p-3"><CircleHelp className="mt-0.5 size-4 shrink-0 text-amber-300" /><div><p className="text-xs font-medium text-amber-100">Keep your balances fresh</p><p className="mt-1 text-[11px] leading-relaxed text-slate-500">Automatic sync is enabled for all connected programs.</p></div></div></section></div>
-        </div>
-      </section>
-    </main>
-  )
+      <section className="mt-10 border-t border-white/10 pt-6 text-center text-xs leading-6 text-slate-500"><p><span className="mr-2 rounded-md border border-rose-400/50 bg-rose-400/10 px-2 py-1 font-black text-rose-300">18+</span> Gamble responsibly. This is an independent directory, not a gambling operator.</p><p className="mt-1">Only play with licensed operators and check the rules in your state or territory.</p></section>
+    </div>
+
+    <div className={`fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4 backdrop-blur-md transition ${fetcherOpen ? 'opacity-100' : 'pointer-events-none opacity-0'}`} onClick={() => setFetcherOpen(false)}><div role="dialog" aria-modal="true" aria-labelledby="fetcher-title" className="w-full max-w-xl rounded-2xl border border-white/15 bg-[#0b0b11] shadow-2xl" onClick={(event) => event.stopPropagation()}><div className="flex items-center justify-between border-b border-white/10 p-5"><div><h2 id="fetcher-title" className="flex items-center gap-2 text-lg font-black"><Zap className="size-5 text-cyan-300" /> Bonus Fetcher</h2><p className="mt-1 text-xs text-slate-500">Securely check supported site data.</p></div><button aria-label="Close bonus fetcher" onClick={() => setFetcherOpen(false)} className="rounded-lg p-2 text-slate-400 hover:bg-white/10 hover:text-white"><X className="size-4" /></button></div><div className="space-y-4 p-5 sm:p-7">{fetched ? <div className="rounded-xl border border-emerald-400/30 bg-emerald-400/10 p-5"><div className="flex items-center gap-3 text-emerald-300"><Check className="size-5" /><p className="font-bold">Fetch complete</p></div><p className="mt-2 text-sm text-slate-300">We checked 8 indexed sites. Connect your account to view live balances and bonus details.</p></div> : <><label htmlFor="fetch-email" className="block text-xs font-bold text-slate-300">Account email</label><input id="fetch-email" type="email" placeholder="you@example.com" className="h-11 w-full rounded-xl border border-white/10 bg-black/30 px-3 text-sm outline-none placeholder:text-slate-600 focus:border-cyan-300/50" /><div className="flex items-start gap-2 rounded-xl border border-amber-300/15 bg-amber-300/[.05] p-3 text-xs leading-5 text-slate-400"><CircleHelp className="mt-0.5 size-4 shrink-0 text-amber-300" />Your details stay private and are only used to match supported account records.</div><button onClick={() => setFetched(true)} className="w-full rounded-xl bg-gradient-to-r from-cyan-300 via-violet-500 to-fuchsia-500 py-3 text-sm font-black text-black">Fetch available bonuses</button></>}</div></div></div>
+  </main>
 }

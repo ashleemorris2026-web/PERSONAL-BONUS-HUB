@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Personal Bonus Hub',
-  description: 'Track your rewards, balances, and bonus opportunities in one place.',
+  title: 'PokieFetch | Best Pokie Sites Australia',
+  description: 'Browse the latest Australian pokie sites and check supported bonus data in one fetch.',
   generator: 'v0.app',
   icons: {
     icon: [
