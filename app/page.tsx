@@ -35,7 +35,11 @@ export default function Home() {
     setBusy(true); setMessage('')
     const { error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
-      options: { redirectTo: `${window.location.origin}/auth/callback` },
+      options: {
+        redirectTo:
+          process.env.NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL ??
+          `${window.location.origin}/auth/callback`,
+      },
     })
     if (error) { setBusy(false); setMessage('Google sign-in is currently unavailable.') }
   }
