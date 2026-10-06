@@ -28,7 +28,7 @@ export default function Home() {
     event.preventDefault(); setBusy(true); setMessage('')
     const { error } = await supabase.auth.signInWithPassword({ phone: mobile, password })
     setBusy(false); setPassword('')
-    setMessage(error ? 'Invalid email or password.' : 'Signed in securely.')
+    setMessage(error ? 'Invalid mobile number or password.' : 'Signed in securely.')
     if (!error) load()
   }
   async function signOut() { await supabase.auth.signOut(); setUser(null); setAccounts([]) }
