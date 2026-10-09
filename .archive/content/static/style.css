@@ -1,0 +1,431 @@
+/* Casino Balance Vault — Stylesheet */
+:root {
+    --bg: #0f1117;
+    --card: #1a1d29;
+    --card-hover: #232736;
+    --ink: #e4e6eb;
+    --muted: #8b90a0;
+    --border: #2a2e3c;
+    --accent: #4f9eff;
+    --green: #2ecc71;
+    --green-bg: rgba(46,204,113,0.12);
+    --red: #e74c3c;
+    --red-bg: rgba(231,76,60,0.12);
+    --orange: #f39c12;
+    --orange-bg: rgba(243,156,18,0.12);
+    --blue: #3498db;
+    --blue-bg: rgba(52,152,219,0.12);
+    --gray: #59636e;
+    --gray-bg: rgba(89,99,110,0.12);
+    --radius: 12px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    min-height: 100vh;
+}
+
+/* ===== LOGIN PAGE ===== */
+.login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #0f1117 0%, #1a1d29 50%, #0f3460 100%);
+}
+
+.login-container {
+    width: 100%;
+    max-width: 440px;
+    padding: 20px;
+}
+
+.login-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 36px 32px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+}
+
+.login-header h1 {
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 6px;
+}
+
+.subtitle {
+    color: var(--muted);
+    font-size: 14px;
+    margin-bottom: 28px;
+}
+
+.form-section {
+    margin-bottom: 18px;
+}
+
+.form-section label {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--muted);
+    margin-bottom: 6px;
+}
+
+.form-section input {
+    width: 100%;
+    padding: 12px 14px;
+    background: rgba(0,0,0,0.3);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--ink);
+    font-size: 15px;
+    transition: border-color 0.2s;
+}
+
+.form-section input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(79,158,255,0.15);
+}
+
+.divider {
+    height: 1px;
+    background: var(--border);
+    margin: 24px 0;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 14px;
+    background: linear-gradient(135deg, var(--accent) 0%, #3a8ae0 100%);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 24px rgba(79,158,255,0.3);
+}
+
+.btn-primary:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btn-secondary {
+    padding: 8px 16px;
+    background: var(--card-hover);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--ink);
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-secondary:hover {
+    background: var(--border);
+}
+
+.btn-ghost {
+    padding: 8px 16px;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--muted);
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.btn-ghost:hover {
+    color: var(--red);
+    border-color: var(--red);
+}
+
+.spinner {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    border: 2px solid rgba(255,255,255,0.3);
+    border-top-color: white;
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.error-msg {
+    background: var(--red-bg);
+    border: 1px solid var(--red);
+    border-radius: 8px;
+    padding: 12px 16px;
+    color: var(--red);
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.login-footer {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+}
+
+.login-footer p {
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+/* ===== DASHBOARD ===== */
+.dashboard-page {
+    padding: 0;
+}
+
+.dashboard-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+}
+
+.dashboard-header h1 {
+    font-size: 20px;
+    color: var(--accent);
+}
+
+.header-right {
+    display: flex;
+    gap: 10px;
+}
+
+/* Stats bar */
+.stats-bar {
+    display: flex;
+    gap: 12px;
+    padding: 20px 24px;
+    overflow-x: auto;
+    flex-wrap: wrap;
+}
+
+.stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 20px;
+    min-width: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.stat-label {
+    font-size: 12px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.stat-value {
+    font-size: 24px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+}
+
+.stat-live .stat-value { color: var(--green); }
+.stat-balance .stat-value { color: var(--accent); }
+.stat-bonus .stat-value { color: var(--orange); }
+.stat-failed .stat-value { color: var(--red); }
+.stat-unsupported .stat-value { color: var(--gray); }
+
+/* Sync progress */
+.sync-progress-bar {
+    padding: 0 24px 16px;
+}
+
+.progress-track {
+    width: 100%;
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 8px;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--green));
+    border-radius: 3px;
+    transition: width 0.5s ease;
+}
+
+.progress-text {
+    font-size: 13px;
+    color: var(--muted);
+}
+
+/* Filter bar */
+.filter-bar {
+    display: flex;
+    gap: 12px;
+    padding: 0 24px 16px;
+    align-items: center;
+}
+
+.search-input {
+    flex: 1;
+    padding: 10px 14px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--ink);
+    font-size: 14px;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.filter-select {
+    padding: 10px 14px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--ink);
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/* Domain grid */
+.domain-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 12px;
+    padding: 0 24px 40px;
+}
+
+.loading-msg {
+    color: var(--muted);
+    text-align: center;
+    padding: 40px;
+    grid-column: 1 / -1;
+}
+
+/* Domain card */
+.domain-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    transition: all 0.2s;
+}
+
+.domain-card:hover {
+    background: var(--card-hover);
+    border-color: var(--accent);
+}
+
+.domain-card .domain-name {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    word-break: break-all;
+}
+
+.domain-card .domain-url {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 12px;
+}
+
+.domain-card .balance-display {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--green);
+    margin: 8px 0;
+    font-variant-numeric: tabular-nums;
+}
+
+.domain-card .balance-display.no-balance {
+    color: var(--muted);
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.domain-card .bonus-item {
+    background: var(--orange-bg);
+    border: 1px solid rgba(243,156,18,0.3);
+    border-radius: 6px;
+    padding: 8px 12px;
+    margin-top: 8px;
+    font-size: 13px;
+}
+
+.domain-card .bonus-item .bonus-name {
+    color: var(--orange);
+    font-weight: 600;
+}
+
+.domain-card .bonus-item .bonus-amount {
+    color: var(--ink);
+    font-variant-numeric: tabular-nums;
+}
+
+.domain-card .snapshot-time {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 8px;
+}
+
+/* Status badges */
+.status-badge {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.status-live { color: var(--green); background: var(--green-bg); }
+.status-last_verified { color: var(--blue); background: var(--blue-bg); }
+.status-auth_failed { color: var(--red); background: var(--red-bg); }
+.status-unsupported { color: var(--gray); background: var(--gray-bg); }
+.status-error { color: var(--red); background: var(--red-bg); }
+.status-needs_profile { color: var(--orange); background: var(--orange-bg); }
+.status-queued { color: var(--muted); background: var(--gray-bg); }
+.status-syncing { color: var(--accent); background: var(--blue-bg); }
+
+/* Responsive */
+@media (max-width: 768px) {
+    .domain-grid {
+        grid-template-columns: 1fr;
+    }
+    .stats-bar {
+        flex-wrap: wrap;
+    }
+}

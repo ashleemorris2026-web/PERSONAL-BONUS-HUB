@@ -1,0 +1,5434 @@
+[
+  {
+    "id": "site-0001",
+    "domain": "111aud.com",
+    "referral_url": "https://111aud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "111aud"
+  },
+  {
+    "id": "site-0002",
+    "domain": "galaxyau.co",
+    "referral_url": "https://galaxyau.co",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Galaxyau"
+  },
+  {
+    "id": "site-0003",
+    "domain": "pp33au.com",
+    "referral_url": "https://pp33au.com",
+    "http_status": "",
+    "http_status_label": "unknown",
+    "name": "Pp33au"
+  },
+  {
+    "id": "site-0004",
+    "domain": "123bet.club",
+    "referral_url": "https://123bet.club",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "123bet"
+  },
+  {
+    "id": "site-0005",
+    "domain": "galaxys77.com",
+    "referral_url": "https://galaxys77.com/RF2A522220A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Galaxys77"
+  },
+  {
+    "id": "site-0006",
+    "domain": "pp99au.com",
+    "referral_url": "https://pp99au.com",
+    "http_status": "",
+    "http_status_label": "unknown",
+    "name": "Pp99au"
+  },
+  {
+    "id": "site-0007",
+    "domain": "19rich.co",
+    "referral_url": "https://19rich.co",
+    "http_status": "",
+    "http_status_label": "unknown",
+    "name": "19rich"
+  },
+  {
+    "id": "site-0008",
+    "domain": "gamdom77.com",
+    "referral_url": "https://gamdom77.com/RF381590226",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gamdom77"
+  },
+  {
+    "id": "site-0009",
+    "domain": "predator9.com",
+    "referral_url": "https://predator9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Predator9"
+  },
+  {
+    "id": "site-0010",
+    "domain": "1bigwin.bet",
+    "referral_url": "https://1bigwin.bet",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "1bigwin"
+  },
+  {
+    "id": "site-0011",
+    "domain": "gcity56.com",
+    "referral_url": "https://gcity56.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gcity56"
+  },
+  {
+    "id": "site-0012",
+    "domain": "premium1au.net",
+    "referral_url": "https://premium1au.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Premium1au"
+  },
+  {
+    "id": "site-0013",
+    "domain": "1playaus.com",
+    "referral_url": "https://1playaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "1playaus"
+  },
+  {
+    "id": "site-0014",
+    "domain": "gd8au.vip",
+    "referral_url": "https://gd8au.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gd8au"
+  },
+  {
+    "id": "site-0015",
+    "domain": "prime96.com",
+    "referral_url": "https://prime96.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Prime96"
+  },
+  {
+    "id": "site-0016",
+    "domain": "1spinnwin.com",
+    "referral_url": "https://1spinnwin.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "1spinnwin"
+  },
+  {
+    "id": "site-0017",
+    "domain": "gday007.com",
+    "referral_url": "https://gday007.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gday007"
+  },
+  {
+    "id": "site-0018",
+    "domain": "qbet21aus.com",
+    "referral_url": "https://qbet21aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Qbet21aus"
+  },
+  {
+    "id": "site-0019",
+    "domain": "1u2win.net",
+    "referral_url": "https://1u2win.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "1u2win"
+  },
+  {
+    "id": "site-0020",
+    "domain": "gday77au.com",
+    "referral_url": "https://gday77au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gday77au"
+  },
+  {
+    "id": "site-0021",
+    "domain": "raabet9.net",
+    "referral_url": "https://raabet9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Raabet9"
+  },
+  {
+    "id": "site-0022",
+    "domain": "1winbet369.com",
+    "referral_url": "https://1winbet369.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "1winbet369"
+  },
+  {
+    "id": "site-0023",
+    "domain": "gday9.com",
+    "referral_url": "https://gday9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gday9"
+  },
+  {
+    "id": "site-0024",
+    "domain": "ragemeth.net",
+    "referral_url": "https://ragemeth.net/RF3932133A1",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ragemeth"
+  },
+  {
+    "id": "site-0025",
+    "domain": "1xaud.com",
+    "referral_url": "https://1xaud.com/RF223A5720",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "1xaud"
+  },
+  {
+    "id": "site-0026",
+    "domain": "gday96.net",
+    "referral_url": "https://gday96.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gday96"
+  },
+  {
+    "id": "site-0027",
+    "domain": "ragepokies.net",
+    "referral_url": "https://ragepokies.net/RF365A13535",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ragepokies"
+  },
+  {
+    "id": "site-0028",
+    "domain": "22aus.com",
+    "referral_url": "https://22aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "22aus"
+  },
+  {
+    "id": "site-0029",
+    "domain": "gdaymate9.com",
+    "referral_url": "https://gdaymate9.com/RF362976855",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gdaymate9"
+  },
+  {
+    "id": "site-0030",
+    "domain": "ranger88au.com",
+    "referral_url": "https://ranger88au.com/RF369629060",
+    "http_status": "",
+    "http_status_label": "Timeout",
+    "name": "Ranger88au"
+  },
+  {
+    "id": "site-0031",
+    "domain": "22pokies.com",
+    "referral_url": "https://22pokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "22pokies"
+  },
+  {
+    "id": "site-0032",
+    "domain": "glorya77.com",
+    "referral_url": "https://glorya77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Glorya77"
+  },
+  {
+    "id": "site-0033",
+    "domain": "raptor7777.vip",
+    "referral_url": "https://raptor7777.vip",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Raptor7777"
+  },
+  {
+    "id": "site-0034",
+    "domain": "33spins.net",
+    "referral_url": "https://33spins.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "33spins"
+  },
+  {
+    "id": "site-0035",
+    "domain": "gluck33.com",
+    "referral_url": "https://gluck33.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gluck33"
+  },
+  {
+    "id": "site-0036",
+    "domain": "rcrown88au.com",
+    "referral_url": "https://rcrown88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rcrown88au"
+  },
+  {
+    "id": "site-0037",
+    "domain": "77pokies.com",
+    "referral_url": "https://77pokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "77pokies"
+  },
+  {
+    "id": "site-0038",
+    "domain": "gluck77.com",
+    "referral_url": "https://gluck77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gluck77"
+  },
+  {
+    "id": "site-0039",
+    "domain": "real9au.com",
+    "referral_url": "https://real9au.com",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Real9au"
+  },
+  {
+    "id": "site-0040",
+    "domain": "7pokies.online",
+    "referral_url": "https://7pokies.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "7pokies"
+  },
+  {
+    "id": "site-0041",
+    "domain": "go33au.com",
+    "referral_url": "https://go33au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Go33au"
+  },
+  {
+    "id": "site-0042",
+    "domain": "rec99au.com",
+    "referral_url": "https://rec99au.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Rec99au"
+  },
+  {
+    "id": "site-0043",
+    "domain": "88premiumvip.store",
+    "referral_url": "https://88premiumvip.store",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "88premiumvip"
+  },
+  {
+    "id": "site-0044",
+    "domain": "godmeth.com",
+    "referral_url": "https://godmeth.com/RF396AA9310",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Godmeth"
+  },
+  {
+    "id": "site-0045",
+    "domain": "red96.com",
+    "referral_url": "https://red96.com/RF36A293A07",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Red96"
+  },
+  {
+    "id": "site-0046",
+    "domain": "96spinau.com",
+    "referral_url": "https://96spinau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "96spinau"
+  },
+  {
+    "id": "site-0047",
+    "domain": "gofun333.net",
+    "referral_url": "https://gofun333.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gofun333"
+  },
+  {
+    "id": "site-0048",
+    "domain": "redvortex8.store",
+    "referral_url": "https://redvortex8.store",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Redvortex8"
+  },
+  {
+    "id": "site-0049",
+    "domain": "99luckaus.com",
+    "referral_url": "https://99luckaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "99luckaus"
+  },
+  {
+    "id": "site-0050",
+    "domain": "gold77au.com",
+    "referral_url": "https://gold77au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gold77au"
+  },
+  {
+    "id": "site-0051",
+    "domain": "reef33.cc",
+    "referral_url": "https://reef33.cc",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Reef33"
+  },
+  {
+    "id": "site-0052",
+    "domain": "9au.com",
+    "referral_url": "https://9au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "9au"
+  },
+  {
+    "id": "site-0053",
+    "domain": "goldbet9.org",
+    "referral_url": "https://goldbet9.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Goldbet9"
+  },
+  {
+    "id": "site-0054",
+    "domain": "reels11.com",
+    "referral_url": "https://reels11.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Reels11"
+  },
+  {
+    "id": "site-0055",
+    "domain": "9pokies.com",
+    "referral_url": "https://9pokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "9pokies"
+  },
+  {
+    "id": "site-0056",
+    "domain": "golden88c.com",
+    "referral_url": "https://golden88c.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Golden88c"
+  },
+  {
+    "id": "site-0057",
+    "domain": "regal96.net",
+    "referral_url": "https://regal96.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Regal96"
+  },
+  {
+    "id": "site-0058",
+    "domain": "a2w.casino",
+    "referral_url": "https://a2w.casino",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "A2w"
+  },
+  {
+    "id": "site-0059",
+    "domain": "goldenempire8.site",
+    "referral_url": "https://goldenempire8.site/RF305013376",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Goldenempire8"
+  },
+  {
+    "id": "site-0060",
+    "domain": "regalau777.com",
+    "referral_url": "https://regalau777.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Regalau777"
+  },
+  {
+    "id": "site-0061",
+    "domain": "a99au.online",
+    "referral_url": "https://a99au.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "A99au"
+  },
+  {
+    "id": "site-0062",
+    "domain": "goldkick881.site",
+    "referral_url": "https://goldkick881.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Goldkick881"
+  },
+  {
+    "id": "site-0063",
+    "domain": "retro33.io",
+    "referral_url": "https://retro33.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Retro33"
+  },
+  {
+    "id": "site-0064",
+    "domain": "a9win.co",
+    "referral_url": "https://a9win.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "A9win"
+  },
+  {
+    "id": "site-0065",
+    "domain": "goospin.org",
+    "referral_url": "https://goospin.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Goospin"
+  },
+  {
+    "id": "site-0066",
+    "domain": "riches88.online",
+    "referral_url": "https://riches88.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Riches88"
+  },
+  {
+    "id": "site-0067",
+    "domain": "ac8bet.com",
+    "referral_url": "https://ac8bet.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ac8bet"
+  },
+  {
+    "id": "site-0068",
+    "domain": "gtbet9au.com",
+    "referral_url": "https://gtbet9au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gtbet9au"
+  },
+  {
+    "id": "site-0069",
+    "domain": "richmama885.com",
+    "referral_url": "https://richmama885.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Richmama885"
+  },
+  {
+    "id": "site-0070",
+    "domain": "ac8et.net",
+    "referral_url": "https://ac8et.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ac8et"
+  },
+  {
+    "id": "site-0071",
+    "domain": "gucci9au.org",
+    "referral_url": "https://gucci9au.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gucci9au"
+  },
+  {
+    "id": "site-0072",
+    "domain": "richman96.com",
+    "referral_url": "https://richman96.com/RF3620158A2",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Richman96"
+  },
+  {
+    "id": "site-0073",
+    "domain": "ace268.net",
+    "referral_url": "https://ace268.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ace268"
+  },
+  {
+    "id": "site-0074",
+    "domain": "gwin9au.com",
+    "referral_url": "https://gwin9au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Gwin9au"
+  },
+  {
+    "id": "site-0075",
+    "domain": "richpapa66.net",
+    "referral_url": "https://richpapa66.net",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Richpapa66"
+  },
+  {
+    "id": "site-0076",
+    "domain": "ace34.vip",
+    "referral_url": "https://ace34.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ace34"
+  },
+  {
+    "id": "site-0077",
+    "domain": "hb88aus.net",
+    "referral_url": "https://hb88aus.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Hb88aus"
+  },
+  {
+    "id": "site-0078",
+    "domain": "richpokies.net",
+    "referral_url": "https://richpokies.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Richpokies"
+  },
+  {
+    "id": "site-0079",
+    "domain": "acehighwin.online",
+    "referral_url": "https://acehighwin.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Acehighwin"
+  },
+  {
+    "id": "site-0080",
+    "domain": "heybitch99.com",
+    "referral_url": "https://heybitch99.com/RF393A07816",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Heybitch99"
+  },
+  {
+    "id": "site-0081",
+    "domain": "richspinau.com",
+    "referral_url": "https://richspinau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Richspinau"
+  },
+  {
+    "id": "site-0082",
+    "domain": "acepokie.vip",
+    "referral_url": "https://acepokie.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Acepokie"
+  },
+  {
+    "id": "site-0083",
+    "domain": "heycunt.net",
+    "referral_url": "https://heycunt.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Heycunt"
+  },
+  {
+    "id": "site-0084",
+    "domain": "ridgydidgeau.com",
+    "referral_url": "https://ridgydidgeau.com/RF19738781",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ridgydidgeau"
+  },
+  {
+    "id": "site-0085",
+    "domain": "acewin33.site",
+    "referral_url": "https://acewin33.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Acewin33"
+  },
+  {
+    "id": "site-0086",
+    "domain": "heypokies.vip",
+    "referral_url": "https://heypokies.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Heypokies"
+  },
+  {
+    "id": "site-0087",
+    "domain": "ridgydidgebets.com",
+    "referral_url": "https://ridgydidgebets.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ridgydidgebets"
+  },
+  {
+    "id": "site-0088",
+    "domain": "aco96.org",
+    "referral_url": "https://aco96.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aco96"
+  },
+  {
+    "id": "site-0089",
+    "domain": "highmate88.net",
+    "referral_url": "https://highmate88.net/RF38759A820",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Highmate88"
+  },
+  {
+    "id": "site-0090",
+    "domain": "ripperbets.vip",
+    "referral_url": "https://ripperbets.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ripperbets"
+  },
+  {
+    "id": "site-0091",
+    "domain": "acwin77.net",
+    "referral_url": "https://acwin77.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Acwin77"
+  },
+  {
+    "id": "site-0092",
+    "domain": "highrollaoz.world",
+    "referral_url": "https://highrollaoz.world",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Highrollaoz"
+  },
+  {
+    "id": "site-0093",
+    "domain": "rizspin.net",
+    "referral_url": "https://rizspin.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rizspin"
+  },
+  {
+    "id": "site-0094",
+    "domain": "af7aus.com",
+    "referral_url": "https://af7aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Af7aus"
+  },
+  {
+    "id": "site-0095",
+    "domain": "hollywoodaus.com",
+    "referral_url": "https://hollywoodaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Hollywoodaus"
+  },
+  {
+    "id": "site-0096",
+    "domain": "rock9.com",
+    "referral_url": "https://rock9.com/RFA50822182",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rock9"
+  },
+  {
+    "id": "site-0097",
+    "domain": "afb77au.club",
+    "referral_url": "https://afb77au.club",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Afb77au"
+  },
+  {
+    "id": "site-0098",
+    "domain": "holspin.com",
+    "referral_url": "https://holspin.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Holspin"
+  },
+  {
+    "id": "site-0099",
+    "domain": "rolex66.vip",
+    "referral_url": "https://rolex66.vip/RF2A8A76237",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rolex66"
+  },
+  {
+    "id": "site-0100",
+    "domain": "aggau.com",
+    "referral_url": "https://aggau.com/RFA29928158",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aggau"
+  },
+  {
+    "id": "site-0101",
+    "domain": "hoospin.com",
+    "referral_url": "https://hoospin.com/RFA32679892",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Hoospin"
+  },
+  {
+    "id": "site-0102",
+    "domain": "rolex9.net",
+    "referral_url": "https://rolex9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rolex9"
+  },
+  {
+    "id": "site-0103",
+    "domain": "ak8au.com",
+    "referral_url": "https://ak8au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ak8au"
+  },
+  {
+    "id": "site-0104",
+    "domain": "hydra888aus.com",
+    "referral_url": "https://hydra888aus.com/RF18258112",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Hydra888aus"
+  },
+  {
+    "id": "site-0105",
+    "domain": "roo123.com",
+    "referral_url": "https://roo123.com/R123A05882355",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Roo123"
+  },
+  {
+    "id": "site-0106",
+    "domain": "all117.com",
+    "referral_url": "https://all117.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "All117"
+  },
+  {
+    "id": "site-0107",
+    "domain": "hype777.io",
+    "referral_url": "https://hype777.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Hype777"
+  },
+  {
+    "id": "site-0108",
+    "domain": "roo96.com",
+    "referral_url": "https://roo96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Roo96"
+  },
+  {
+    "id": "site-0109",
+    "domain": "amplayfun.com",
+    "referral_url": "https://amplayfun.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Amplayfun"
+  },
+  {
+    "id": "site-0110",
+    "domain": "ibet9au.net",
+    "referral_url": "https://ibet9au.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ibet9au"
+  },
+  {
+    "id": "site-0111",
+    "domain": "roocrown.com",
+    "referral_url": "https://roocrown.com",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Roocrown"
+  },
+  {
+    "id": "site-0112",
+    "domain": "astar77au.com",
+    "referral_url": "https://astar77au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Astar77au"
+  },
+  {
+    "id": "site-0113",
+    "domain": "icefrog777.co",
+    "referral_url": "https://icefrog777.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Icefrog777"
+  },
+  {
+    "id": "site-0114",
+    "domain": "roopokies.co",
+    "referral_url": "https://roopokies.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Roopokies"
+  },
+  {
+    "id": "site-0115",
+    "domain": "au21.net",
+    "referral_url": "https://au21.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Au21"
+  },
+  {
+    "id": "site-0116",
+    "domain": "iclub365aus.net",
+    "referral_url": "https://iclub365aus.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Iclub365aus"
+  },
+  {
+    "id": "site-0117",
+    "domain": "rooroomate.org",
+    "referral_url": "https://rooroomate.org",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Rooroomate"
+  },
+  {
+    "id": "site-0118",
+    "domain": "au55.co",
+    "referral_url": "https://au55.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Au55"
+  },
+  {
+    "id": "site-0119",
+    "domain": "ig9aud.com",
+    "referral_url": "https://ig9aud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ig9aud"
+  },
+  {
+    "id": "site-0120",
+    "domain": "roospin.vip",
+    "referral_url": "https://roospin.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Roospin"
+  },
+  {
+    "id": "site-0121",
+    "domain": "au68.com",
+    "referral_url": "https://au68.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Au68"
+  },
+  {
+    "id": "site-0122",
+    "domain": "ilove96.com",
+    "referral_url": "https://ilove96.com/RF390635677",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Ilove96"
+  },
+  {
+    "id": "site-0123",
+    "domain": "royal63a.com",
+    "referral_url": "https://royal63a.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Royal63a"
+  },
+  {
+    "id": "site-0124",
+    "domain": "au99.co",
+    "referral_url": "https://au99.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Au99"
+  },
+  {
+    "id": "site-0125",
+    "domain": "ilovejili.vip",
+    "referral_url": "https://ilovejili.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ilovejili"
+  },
+  {
+    "id": "site-0126",
+    "domain": "royal8aus.co",
+    "referral_url": "https://royal8aus.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Royal8aus"
+  },
+  {
+    "id": "site-0127",
+    "domain": "aubet88.org",
+    "referral_url": "https://aubet88.org/RFA50719169",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aubet88"
+  },
+  {
+    "id": "site-0128",
+    "domain": "ilovemeth.co",
+    "referral_url": "https://ilovemeth.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ilovemeth"
+  },
+  {
+    "id": "site-0129",
+    "domain": "royalaceau.net",
+    "referral_url": "https://royalaceau.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Royalaceau"
+  },
+  {
+    "id": "site-0130",
+    "domain": "auboss1.com",
+    "referral_url": "https://auboss1.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auboss1"
+  },
+  {
+    "id": "site-0131",
+    "domain": "imperium777.com",
+    "referral_url": "https://imperium777.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Imperium777"
+  },
+  {
+    "id": "site-0132",
+    "domain": "royalaud.site",
+    "referral_url": "https://royalaud.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Royalaud"
+  },
+  {
+    "id": "site-0133",
+    "domain": "aud2u.com",
+    "referral_url": "https://aud2u.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aud2u"
+  },
+  {
+    "id": "site-0134",
+    "domain": "in8.live",
+    "referral_url": "https://in8.live",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "In8"
+  },
+  {
+    "id": "site-0135",
+    "domain": "royale9au.com",
+    "referral_url": "https://royale9au.com/RFA0AA85716",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Royale9au"
+  },
+  {
+    "id": "site-0136",
+    "domain": "aud33.live",
+    "referral_url": "https://aud33.live",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aud33"
+  },
+  {
+    "id": "site-0137",
+    "domain": "inskingdom8.com",
+    "referral_url": "https://inskingdom8.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Inskingdom8"
+  },
+  {
+    "id": "site-0138",
+    "domain": "rr33r.com",
+    "referral_url": "https://rr33r.com/RF323211732",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rr33r"
+  },
+  {
+    "id": "site-0139",
+    "domain": "aud9.com",
+    "referral_url": "https://aud9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aud9"
+  },
+  {
+    "id": "site-0140",
+    "domain": "intensityaus.com",
+    "referral_url": "https://intensityaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Intensityaus"
+  },
+  {
+    "id": "site-0141",
+    "domain": "rr4winaus.com",
+    "referral_url": "https://rr4winaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rr4winaus"
+  },
+  {
+    "id": "site-0142",
+    "domain": "aud99.live",
+    "referral_url": "https://aud99.live",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aud99"
+  },
+  {
+    "id": "site-0143",
+    "domain": "invegas365.com",
+    "referral_url": "https://invegas365.com/RFA50260137",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Invegas365"
+  },
+  {
+    "id": "site-0144",
+    "domain": "rtpcnt.com",
+    "referral_url": "https://rtpcnt.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rtpcnt"
+  },
+  {
+    "id": "site-0145",
+    "domain": "audgaming1.com",
+    "referral_url": "https://audgaming1.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audgaming1"
+  },
+  {
+    "id": "site-0146",
+    "domain": "ione8aus.co",
+    "referral_url": "https://ione8aus.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ione8aus"
+  },
+  {
+    "id": "site-0147",
+    "domain": "rtppokies1.com",
+    "referral_url": "https://rtppokies1.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rtppokies1"
+  },
+  {
+    "id": "site-0148",
+    "domain": "audgo.asia",
+    "referral_url": "https://audgo.asia",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audgo"
+  },
+  {
+    "id": "site-0149",
+    "domain": "ipay7.net",
+    "referral_url": "https://ipay7.net/RFAA9336207",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ipay7"
+  },
+  {
+    "id": "site-0150",
+    "domain": "rubyaud.com",
+    "referral_url": "https://rubyaud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rubyaud"
+  },
+  {
+    "id": "site-0151",
+    "domain": "audking98.com",
+    "referral_url": "https://audking98.com/RFA0066A096",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audking98"
+  },
+  {
+    "id": "site-0152",
+    "domain": "ipay777.vip",
+    "referral_url": "https://ipay777.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ipay777"
+  },
+  {
+    "id": "site-0153",
+    "domain": "rugby77.com",
+    "referral_url": "https://rugby77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Rugby77"
+  },
+  {
+    "id": "site-0154",
+    "domain": "audply.com",
+    "referral_url": "https://audply.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audply"
+  },
+  {
+    "id": "site-0155",
+    "domain": "ipay9.bet",
+    "referral_url": "https://ipay9.bet",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ipay9"
+  },
+  {
+    "id": "site-0156",
+    "domain": "s888au.com",
+    "referral_url": "https://s888au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "S888au"
+  },
+  {
+    "id": "site-0157",
+    "domain": "audpokies88.com",
+    "referral_url": "https://audpokies88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audpokies88"
+  },
+  {
+    "id": "site-0158",
+    "domain": "iplay77.com",
+    "referral_url": "https://iplay77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Iplay77"
+  },
+  {
+    "id": "site-0159",
+    "domain": "sacino7.org",
+    "referral_url": "https://sacino7.org/RF355806200",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sacino7"
+  },
+  {
+    "id": "site-0160",
+    "domain": "audqueen.co",
+    "referral_url": "https://audqueen.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audqueen"
+  },
+  {
+    "id": "site-0161",
+    "domain": "ipokies88.com",
+    "referral_url": "https://ipokies88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ipokies88"
+  },
+  {
+    "id": "site-0162",
+    "domain": "safeau.net",
+    "referral_url": "https://safeau.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Safeau"
+  },
+  {
+    "id": "site-0163",
+    "domain": "audslot.net",
+    "referral_url": "https://audslot.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audslot"
+  },
+  {
+    "id": "site-0164",
+    "domain": "ipokies9.cc",
+    "referral_url": "https://ipokies9.cc",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ipokies9"
+  },
+  {
+    "id": "site-0165",
+    "domain": "sawspin.com",
+    "referral_url": "https://sawspin.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sawspin"
+  },
+  {
+    "id": "site-0166",
+    "domain": "audwin9.com",
+    "referral_url": "https://audwin9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Audwin9"
+  },
+  {
+    "id": "site-0167",
+    "domain": "ironman98.com",
+    "referral_url": "https://ironman98.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ironman98"
+  },
+  {
+    "id": "site-0168",
+    "domain": "sbuddy9.com",
+    "referral_url": "https://sbuddy9.com/RFAA9779031",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sbuddy9"
+  },
+  {
+    "id": "site-0169",
+    "domain": "auking99.com",
+    "referral_url": "https://auking99.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auking99"
+  },
+  {
+    "id": "site-0170",
+    "domain": "itrust88au.com",
+    "referral_url": "https://itrust88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Itrust88au"
+  },
+  {
+    "id": "site-0171",
+    "domain": "scc5.io",
+    "referral_url": "https://scc5.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Scc5"
+  },
+  {
+    "id": "site-0172",
+    "domain": "auplay99.com",
+    "referral_url": "https://auplay99.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auplay99"
+  },
+  {
+    "id": "site-0173",
+    "domain": "iw99au.com",
+    "referral_url": "https://iw99au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Iw99au"
+  },
+  {
+    "id": "site-0174",
+    "domain": "scr55.net",
+    "referral_url": "https://scr55.net",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Scr55"
+  },
+  {
+    "id": "site-0175",
+    "domain": "auraplay1.com",
+    "referral_url": "https://auraplay1.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auraplay1"
+  },
+  {
+    "id": "site-0176",
+    "domain": "iwin33.net",
+    "referral_url": "https://iwin33.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Iwin33"
+  },
+  {
+    "id": "site-0177",
+    "domain": "select777.net",
+    "referral_url": "https://select777.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Select777"
+  },
+  {
+    "id": "site-0178",
+    "domain": "aurorabets.world",
+    "referral_url": "https://aurorabets.world",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aurorabets"
+  },
+  {
+    "id": "site-0179",
+    "domain": "j8au.com",
+    "referral_url": "https://j8au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "J8au"
+  },
+  {
+    "id": "site-0180",
+    "domain": "sgdclub888.com",
+    "referral_url": "https://sgdclub888.com/RFAA9336198",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sgdclub888"
+  },
+  {
+    "id": "site-0181",
+    "domain": "aus007.co",
+    "referral_url": "https://aus007.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus007"
+  },
+  {
+    "id": "site-0182",
+    "domain": "jackpotau.net",
+    "referral_url": "https://jackpotau.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jackpotau"
+  },
+  {
+    "id": "site-0183",
+    "domain": "shardbet.co",
+    "referral_url": "https://shardbet.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Shardbet"
+  },
+  {
+    "id": "site-0184",
+    "domain": "aus29.com",
+    "referral_url": "https://aus29.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus29"
+  },
+  {
+    "id": "site-0185",
+    "domain": "jackpotmate88.com",
+    "referral_url": "https://jackpotmate88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jackpotmate88"
+  },
+  {
+    "id": "site-0186",
+    "domain": "sixty9.co",
+    "referral_url": "https://sixty9.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sixty9"
+  },
+  {
+    "id": "site-0187",
+    "domain": "aus33.com",
+    "referral_url": "https://aus33.com",
+    "http_status": "403",
+    "http_status_label": "Client Error",
+    "name": "Aus33"
+  },
+  {
+    "id": "site-0188",
+    "domain": "jaws68.org",
+    "referral_url": "https://jaws68.org/RFA518077A3",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jaws68"
+  },
+  {
+    "id": "site-0189",
+    "domain": "skycity88au.com",
+    "referral_url": "https://skycity88au.com/RF360623630",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Skycity88au"
+  },
+  {
+    "id": "site-0190",
+    "domain": "aus55.us",
+    "referral_url": "https://aus55.us",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus55"
+  },
+  {
+    "id": "site-0191",
+    "domain": "jbagwin.net",
+    "referral_url": "https://jbagwin.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jbagwin"
+  },
+  {
+    "id": "site-0192",
+    "domain": "skygate9au.net",
+    "referral_url": "https://skygate9au.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Skygate9au"
+  },
+  {
+    "id": "site-0193",
+    "domain": "aus789.com",
+    "referral_url": "https://aus789.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus789"
+  },
+  {
+    "id": "site-0194",
+    "domain": "jeespin.com",
+    "referral_url": "https://jeespin.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jeespin"
+  },
+  {
+    "id": "site-0195",
+    "domain": "skygold98.com",
+    "referral_url": "https://skygold98.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Skygold98"
+  },
+  {
+    "id": "site-0196",
+    "domain": "aus88.club",
+    "referral_url": "https://aus88.club",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus88"
+  },
+  {
+    "id": "site-0197",
+    "domain": "jjpokies.com",
+    "referral_url": "https://jjpokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jjpokies"
+  },
+  {
+    "id": "site-0198",
+    "domain": "skyrooaus.com",
+    "referral_url": "https://skyrooaus.com/RFA213A2050",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Skyrooaus"
+  },
+  {
+    "id": "site-0199",
+    "domain": "aus88win.com",
+    "referral_url": "https://aus88win.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus88win"
+  },
+  {
+    "id": "site-0200",
+    "domain": "joker13.org",
+    "referral_url": "https://joker13.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Joker13"
+  },
+  {
+    "id": "site-0201",
+    "domain": "skystar96.co",
+    "referral_url": "https://skystar96.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Skystar96"
+  },
+  {
+    "id": "site-0202",
+    "domain": "aus9.com",
+    "referral_url": "https://aus9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus9"
+  },
+  {
+    "id": "site-0203",
+    "domain": "jokeroz.net",
+    "referral_url": "https://jokeroz.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jokeroz"
+  },
+  {
+    "id": "site-0204",
+    "domain": "slotaud.net",
+    "referral_url": "https://slotaud.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Slotaud"
+  },
+  {
+    "id": "site-0205",
+    "domain": "aus96.co",
+    "referral_url": "https://aus96.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aus96"
+  },
+  {
+    "id": "site-0206",
+    "domain": "joospin.net",
+    "referral_url": "https://joospin.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Joospin"
+  },
+  {
+    "id": "site-0207",
+    "domain": "slotify7.vip",
+    "referral_url": "https://slotify7.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Slotify7"
+  },
+  {
+    "id": "site-0208",
+    "domain": "ausands33.com",
+    "referral_url": "https://ausands33.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ausands33"
+  },
+  {
+    "id": "site-0209",
+    "domain": "justwin9.net",
+    "referral_url": "https://justwin9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Justwin9"
+  },
+  {
+    "id": "site-0210",
+    "domain": "slotmate88.com",
+    "referral_url": "https://slotmate88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Slotmate88"
+  },
+  {
+    "id": "site-0211",
+    "domain": "ausbet33.net",
+    "referral_url": "https://ausbet33.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ausbet33"
+  },
+  {
+    "id": "site-0212",
+    "domain": "jw8au.live",
+    "referral_url": "https://jw8au.live",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Jw8au"
+  },
+  {
+    "id": "site-0213",
+    "domain": "slotmeth.net",
+    "referral_url": "https://slotmeth.net",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Slotmeth"
+  },
+  {
+    "id": "site-0214",
+    "domain": "ausbet88au.com",
+    "referral_url": "https://ausbet88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ausbet88au"
+  },
+  {
+    "id": "site-0215",
+    "domain": "kaboom77.com",
+    "referral_url": "https://kaboom77.com/RF236220633",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kaboom77"
+  },
+  {
+    "id": "site-0216",
+    "domain": "slotrot.com",
+    "referral_url": "https://slotrot.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Slotrot"
+  },
+  {
+    "id": "site-0217",
+    "domain": "ausbet96.net",
+    "referral_url": "https://ausbet96.net/RF2A3272179",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ausbet96"
+  },
+  {
+    "id": "site-0218",
+    "domain": "kangaroo88.co",
+    "referral_url": "https://kangaroo88.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kangaroo88"
+  },
+  {
+    "id": "site-0219",
+    "domain": "slotunabets.com",
+    "referral_url": "https://slotunabets.com/RF26853607",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Slotunabets"
+  },
+  {
+    "id": "site-0220",
+    "domain": "auspay96.com",
+    "referral_url": "https://auspay96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auspay96"
+  },
+  {
+    "id": "site-0221",
+    "domain": "kangaspinau.com",
+    "referral_url": "https://kangaspinau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kangaspinau"
+  },
+  {
+    "id": "site-0222",
+    "domain": "slutcunt.net",
+    "referral_url": "https://slutcunt.net/RFAA9125911",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Slutcunt"
+  },
+  {
+    "id": "site-0223",
+    "domain": "auspin168.com",
+    "referral_url": "https://auspin168.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auspin168"
+  },
+  {
+    "id": "site-0224",
+    "domain": "kazzo88.com",
+    "referral_url": "https://kazzo88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kazzo88"
+  },
+  {
+    "id": "site-0225",
+    "domain": "slutspins.com",
+    "referral_url": "https://slutspins.com/RF35662A395",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Slutspins"
+  },
+  {
+    "id": "site-0226",
+    "domain": "aussie96.com",
+    "referral_url": "https://aussie96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aussie96"
+  },
+  {
+    "id": "site-0227",
+    "domain": "kfcspin.org",
+    "referral_url": "https://kfcspin.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kfcspin"
+  },
+  {
+    "id": "site-0228",
+    "domain": "solidluck33.site",
+    "referral_url": "https://solidluck33.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Solidluck33"
+  },
+  {
+    "id": "site-0229",
+    "domain": "aussieaces.co",
+    "referral_url": "https://aussieaces.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aussieaces"
+  },
+  {
+    "id": "site-0230",
+    "domain": "king88pokies.com",
+    "referral_url": "https://king88pokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "King88pokies"
+  },
+  {
+    "id": "site-0231",
+    "domain": "sp77aud.online",
+    "referral_url": "https://sp77aud.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sp77aud"
+  },
+  {
+    "id": "site-0232",
+    "domain": "aussinos.net",
+    "referral_url": "https://aussinos.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aussinos"
+  },
+  {
+    "id": "site-0233",
+    "domain": "kingaud.cc",
+    "referral_url": "https://kingaud.cc",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kingaud"
+  },
+  {
+    "id": "site-0234",
+    "domain": "space77.site",
+    "referral_url": "https://space77.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Space77"
+  },
+  {
+    "id": "site-0235",
+    "domain": "aussix.com",
+    "referral_url": "https://aussix.com/RFA01909079",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aussix"
+  },
+  {
+    "id": "site-0236",
+    "domain": "kingsau.com",
+    "referral_url": "https://kingsau.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Kingsau"
+  },
+  {
+    "id": "site-0237",
+    "domain": "space9.cc",
+    "referral_url": "https://space9.cc",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Space9"
+  },
+  {
+    "id": "site-0238",
+    "domain": "ausvip.net",
+    "referral_url": "https://ausvip.net/RF360A887A7",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ausvip"
+  },
+  {
+    "id": "site-0239",
+    "domain": "kingsman369.com",
+    "referral_url": "https://kingsman369.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kingsman369"
+  },
+  {
+    "id": "site-0240",
+    "domain": "spacecraft9.net",
+    "referral_url": "https://spacecraft9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spacecraft9"
+  },
+  {
+    "id": "site-0241",
+    "domain": "auswin.io",
+    "referral_url": "https://auswin.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auswin"
+  },
+  {
+    "id": "site-0242",
+    "domain": "kingtech88.club",
+    "referral_url": "https://kingtech88.club/RF26687898",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Kingtech88"
+  },
+  {
+    "id": "site-0243",
+    "domain": "spaceman369.com",
+    "referral_url": "https://spaceman369.com/RF2683826A9",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Spaceman369"
+  },
+  {
+    "id": "site-0244",
+    "domain": "auswinwin.net",
+    "referral_url": "https://auswinwin.net/RF393210850",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auswinwin"
+  },
+  {
+    "id": "site-0245",
+    "domain": "koalabear33.net",
+    "referral_url": "https://koalabear33.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Koalabear33"
+  },
+  {
+    "id": "site-0246",
+    "domain": "spade69.online",
+    "referral_url": "https://spade69.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spade69"
+  },
+  {
+    "id": "site-0247",
+    "domain": "auwin7.vip",
+    "referral_url": "https://auwin7.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auwin7"
+  },
+  {
+    "id": "site-0248",
+    "domain": "le88win.vip",
+    "referral_url": "https://le88win.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Le88win"
+  },
+  {
+    "id": "site-0249",
+    "domain": "spadeau.co",
+    "referral_url": "https://spadeau.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spadeau"
+  },
+  {
+    "id": "site-0250",
+    "domain": "auwin9.com",
+    "referral_url": "https://auwin9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auwin9"
+  },
+  {
+    "id": "site-0251",
+    "domain": "leespin.com",
+    "referral_url": "https://leespin.com/RFA516572A5",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Leespin"
+  },
+  {
+    "id": "site-0252",
+    "domain": "speed365b.vip",
+    "referral_url": "https://speed365b.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Speed365b"
+  },
+  {
+    "id": "site-0253",
+    "domain": "auwinaud.com",
+    "referral_url": "https://auwinaud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auwinaud"
+  },
+  {
+    "id": "site-0254",
+    "domain": "legend13.co",
+    "referral_url": "https://legend13.co/RF227A9966",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Legend13"
+  },
+  {
+    "id": "site-0255",
+    "domain": "speed8.net",
+    "referral_url": "https://speed8.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Speed8"
+  },
+  {
+    "id": "site-0256",
+    "domain": "auwins88.com",
+    "referral_url": "https://auwins88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Auwins88"
+  },
+  {
+    "id": "site-0257",
+    "domain": "legit99.net",
+    "referral_url": "https://legit99.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Legit99"
+  },
+  {
+    "id": "site-0258",
+    "domain": "speedaud.xyz",
+    "referral_url": "https://speedaud.xyz",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Speedaud"
+  },
+  {
+    "id": "site-0259",
+    "domain": "aviator96.com",
+    "referral_url": "https://aviator96.com/AV96360722821",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aviator96"
+  },
+  {
+    "id": "site-0260",
+    "domain": "lego66.site",
+    "referral_url": "https://lego66.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Lego66"
+  },
+  {
+    "id": "site-0261",
+    "domain": "speedwin88.com",
+    "referral_url": "https://speedwin88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Speedwin88"
+  },
+  {
+    "id": "site-0262",
+    "domain": "aviator98.com",
+    "referral_url": "https://aviator98.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Aviator98"
+  },
+  {
+    "id": "site-0263",
+    "domain": "letsgoaud.co",
+    "referral_url": "https://letsgoaud.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Letsgoaud"
+  },
+  {
+    "id": "site-0264",
+    "domain": "speedwin96.com",
+    "referral_url": "https://speedwin96.com/RF360576A57",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Speedwin96"
+  },
+  {
+    "id": "site-0265",
+    "domain": "azurefortunepalace.co",
+    "referral_url": "https://azurefortunepalace.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Azurefortunepalace"
+  },
+  {
+    "id": "site-0266",
+    "domain": "lion88.fun",
+    "referral_url": "https://lion88.fun",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Lion88"
+  },
+  {
+    "id": "site-0267",
+    "domain": "spin2u.io",
+    "referral_url": "https://spin2u.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spin2u"
+  },
+  {
+    "id": "site-0268",
+    "domain": "b4baus.com",
+    "referral_url": "https://b4baus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "B4baus"
+  },
+  {
+    "id": "site-0269",
+    "domain": "live77bet.com",
+    "referral_url": "https://live77bet.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Live77bet"
+  },
+  {
+    "id": "site-0270",
+    "domain": "spin96.com",
+    "referral_url": "https://spin96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spin96"
+  },
+  {
+    "id": "site-0271",
+    "domain": "bakedmate.net",
+    "referral_url": "https://bakedmate.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bakedmate"
+  },
+  {
+    "id": "site-0272",
+    "domain": "lot9ine.store",
+    "referral_url": "https://lot9ine.store",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Lot9ine"
+  },
+  {
+    "id": "site-0273",
+    "domain": "spinaud.live",
+    "referral_url": "https://spinaud.live",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spinaud"
+  },
+  {
+    "id": "site-0274",
+    "domain": "bang96.net",
+    "referral_url": "https://bang96.net/RF382A136A7",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bang96"
+  },
+  {
+    "id": "site-0275",
+    "domain": "lucky76aus.com",
+    "referral_url": "https://lucky76aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Lucky76aus"
+  },
+  {
+    "id": "site-0276",
+    "domain": "spincrown33.vip",
+    "referral_url": "https://spincrown33.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spincrown33"
+  },
+  {
+    "id": "site-0277",
+    "domain": "be9au.me",
+    "referral_url": "https://be9au.me",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Be9au"
+  },
+  {
+    "id": "site-0278",
+    "domain": "luckyaceau.com",
+    "referral_url": "https://luckyaceau.com/RF353755856",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Luckyaceau"
+  },
+  {
+    "id": "site-0279",
+    "domain": "spinfortune777.cc",
+    "referral_url": "https://spinfortune777.cc",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Spinfortune777"
+  },
+  {
+    "id": "site-0280",
+    "domain": "beespin.org",
+    "referral_url": "https://beespin.org/RFA1A966620",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Beespin"
+  },
+  {
+    "id": "site-0281",
+    "domain": "luckybox77.com",
+    "referral_url": "https://luckybox77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Luckybox77"
+  },
+  {
+    "id": "site-0282",
+    "domain": "spinfred.net",
+    "referral_url": "https://spinfred.net",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Spinfred"
+  },
+  {
+    "id": "site-0283",
+    "domain": "best77.asia",
+    "referral_url": "https://best77.asia/RF381757062",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Best77"
+  },
+  {
+    "id": "site-0284",
+    "domain": "luckymate88.com",
+    "referral_url": "https://luckymate88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Luckymate88"
+  },
+  {
+    "id": "site-0285",
+    "domain": "spingoat.com",
+    "referral_url": "https://spingoat.com/RFA1522A373",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spingoat"
+  },
+  {
+    "id": "site-0286",
+    "domain": "bestau.co",
+    "referral_url": "https://bestau.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bestau"
+  },
+  {
+    "id": "site-0287",
+    "domain": "lux96.co",
+    "referral_url": "https://lux96.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Lux96"
+  },
+  {
+    "id": "site-0288",
+    "domain": "spinking.net",
+    "referral_url": "https://spinking.net",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Spinking"
+  },
+  {
+    "id": "site-0289",
+    "domain": "bet365aud.com",
+    "referral_url": "https://bet365aud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bet365aud"
+  },
+  {
+    "id": "site-0290",
+    "domain": "luxe66.co",
+    "referral_url": "https://luxe66.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Luxe66"
+  },
+  {
+    "id": "site-0291",
+    "domain": "spinoo.org",
+    "referral_url": "https://spinoo.org/RFA32689217",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Spinoo"
+  },
+  {
+    "id": "site-0292",
+    "domain": "betclub6.net",
+    "referral_url": "https://betclub6.net/RF3809825A2",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betclub6"
+  },
+  {
+    "id": "site-0293",
+    "domain": "luxeau777.com",
+    "referral_url": "https://luxeau777.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Luxeau777"
+  },
+  {
+    "id": "site-0294",
+    "domain": "spinpokies29.com",
+    "referral_url": "https://spinpokies29.com/RFA11A311A8",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spinpokies29"
+  },
+  {
+    "id": "site-0295",
+    "domain": "betgm11.site",
+    "referral_url": "https://betgm11.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betgm11"
+  },
+  {
+    "id": "site-0296",
+    "domain": "luxpokies.com",
+    "referral_url": "https://luxpokies.com/RF388977922",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Luxpokies"
+  },
+  {
+    "id": "site-0297",
+    "domain": "spinroo9.com",
+    "referral_url": "https://spinroo9.com/RFAA9552238",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spinroo9"
+  },
+  {
+    "id": "site-0298",
+    "domain": "betjohn.net",
+    "referral_url": "https://betjohn.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betjohn"
+  },
+  {
+    "id": "site-0299",
+    "domain": "lvpay77.vip",
+    "referral_url": "https://lvpay77.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Lvpay77"
+  },
+  {
+    "id": "site-0300",
+    "domain": "spinsx.co",
+    "referral_url": "https://spinsx.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spinsx"
+  },
+  {
+    "id": "site-0301",
+    "domain": "betman9au.com",
+    "referral_url": "https://betman9au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betman9au"
+  },
+  {
+    "id": "site-0302",
+    "domain": "m99az1.space",
+    "referral_url": "https://m99az1.space",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "M99az1"
+  },
+  {
+    "id": "site-0303",
+    "domain": "spinup77.com",
+    "referral_url": "https://spinup77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spinup77"
+  },
+  {
+    "id": "site-0304",
+    "domain": "betmeth.com",
+    "referral_url": "https://betmeth.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betmeth"
+  },
+  {
+    "id": "site-0305",
+    "domain": "madjili.net",
+    "referral_url": "https://madjili.net/RF3725A8939",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Madjili"
+  },
+  {
+    "id": "site-0306",
+    "domain": "spinup99.site",
+    "referral_url": "https://spinup99.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spinup99"
+  },
+  {
+    "id": "site-0307",
+    "domain": "betwey365.com",
+    "referral_url": "https://betwey365.com/RF18710011",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betwey365"
+  },
+  {
+    "id": "site-0308",
+    "domain": "madmeth99.com",
+    "referral_url": "https://madmeth99.com/RF393759605",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Madmeth99"
+  },
+  {
+    "id": "site-0309",
+    "domain": "spinzone11.club",
+    "referral_url": "https://spinzone11.club",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Spinzone11"
+  },
+  {
+    "id": "site-0310",
+    "domain": "betworld168.net",
+    "referral_url": "https://betworld168.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betworld168"
+  },
+  {
+    "id": "site-0311",
+    "domain": "madwinz.net",
+    "referral_url": "https://madwinz.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Madwinz"
+  },
+  {
+    "id": "site-0312",
+    "domain": "splinkos.com",
+    "referral_url": "https://splinkos.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Splinkos"
+  },
+  {
+    "id": "site-0313",
+    "domain": "betzilla88.net",
+    "referral_url": "https://betzilla88.net/RF2A7236089",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Betzilla88"
+  },
+  {
+    "id": "site-0314",
+    "domain": "majesty77aus.com",
+    "referral_url": "https://majesty77aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Majesty77aus"
+  },
+  {
+    "id": "site-0315",
+    "domain": "squeenaud.org",
+    "referral_url": "https://squeenaud.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Squeenaud"
+  },
+  {
+    "id": "site-0316",
+    "domain": "bigbonus.me",
+    "referral_url": "https://bigbonus.me",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bigbonus"
+  },
+  {
+    "id": "site-0317",
+    "domain": "mario96.com",
+    "referral_url": "https://mario96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mario96"
+  },
+  {
+    "id": "site-0318",
+    "domain": "sr7aus.com",
+    "referral_url": "https://sr7aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sr7aus"
+  },
+  {
+    "id": "site-0319",
+    "domain": "bigboss88.vip",
+    "referral_url": "https://bigboss88.vip/RF2668823A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bigboss88"
+  },
+  {
+    "id": "site-0320",
+    "domain": "mario99.co",
+    "referral_url": "https://mario99.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mario99"
+  },
+  {
+    "id": "site-0321",
+    "domain": "ss9au.pro",
+    "referral_url": "https://ss9au.pro",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Ss9au"
+  },
+  {
+    "id": "site-0322",
+    "domain": "billionaire2024.com",
+    "referral_url": "https://billionaire2024.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Billionaire2024"
+  },
+  {
+    "id": "site-0323",
+    "domain": "mate29.com",
+    "referral_url": "https://mate29.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mate29"
+  },
+  {
+    "id": "site-0324",
+    "domain": "stake96.com",
+    "referral_url": "https://stake96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Stake96"
+  },
+  {
+    "id": "site-0325",
+    "domain": "billionaud.com",
+    "referral_url": "https://billionaud.com/RF37A36705A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Billionaud"
+  },
+  {
+    "id": "site-0326",
+    "domain": "matemate11.vip",
+    "referral_url": "https://matemate11.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Matemate11"
+  },
+  {
+    "id": "site-0327",
+    "domain": "stakeau.com",
+    "referral_url": "https://stakeau.com/RF19722599",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Stakeau"
+  },
+  {
+    "id": "site-0328",
+    "domain": "bizzo88.com",
+    "referral_url": "https://bizzo88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bizzo88"
+  },
+  {
+    "id": "site-0329",
+    "domain": "mates88.com",
+    "referral_url": "https://mates88.com/RFA27735308",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mates88"
+  },
+  {
+    "id": "site-0330",
+    "domain": "starspin996.com",
+    "referral_url": "https://starspin996.com/RF268526881",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Starspin996"
+  },
+  {
+    "id": "site-0331",
+    "domain": "bk8auspokies.com",
+    "referral_url": "https://bk8auspokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bk8auspokies"
+  },
+  {
+    "id": "site-0332",
+    "domain": "matespin77.com",
+    "referral_url": "https://matespin77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Matespin77"
+  },
+  {
+    "id": "site-0333",
+    "domain": "steadyaud.online",
+    "referral_url": "https://steadyaud.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Steadyaud"
+  },
+  {
+    "id": "site-0334",
+    "domain": "bk99a.com",
+    "referral_url": "https://bk99a.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bk99a"
+  },
+  {
+    "id": "site-0335",
+    "domain": "maxspin7.com",
+    "referral_url": "https://maxspin7.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Maxspin7"
+  },
+  {
+    "id": "site-0336",
+    "domain": "stokedau.com",
+    "referral_url": "https://stokedau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Stokedau"
+  },
+  {
+    "id": "site-0337",
+    "domain": "blackpokies.com",
+    "referral_url": "https://blackpokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Blackpokies"
+  },
+  {
+    "id": "site-0338",
+    "domain": "maxwinaus.co",
+    "referral_url": "https://maxwinaus.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Maxwinaus"
+  },
+  {
+    "id": "site-0339",
+    "domain": "strayaluck.com",
+    "referral_url": "https://strayaluck.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Strayaluck"
+  },
+  {
+    "id": "site-0340",
+    "domain": "blaze007.io",
+    "referral_url": "https://blaze007.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Blaze007"
+  },
+  {
+    "id": "site-0341",
+    "domain": "mbs77au.online",
+    "referral_url": "https://mbs77au.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mbs77au"
+  },
+  {
+    "id": "site-0342",
+    "domain": "strayalux.com",
+    "referral_url": "https://strayalux.com",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Strayalux"
+  },
+  {
+    "id": "site-0343",
+    "domain": "bluespin88.net",
+    "referral_url": "https://bluespin88.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bluespin88"
+  },
+  {
+    "id": "site-0344",
+    "domain": "mcdollar9.net",
+    "referral_url": "https://mcdollar9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mcdollar9"
+  },
+  {
+    "id": "site-0345",
+    "domain": "strikemate.xyz",
+    "referral_url": "https://strikemate.xyz",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Strikemate"
+  },
+  {
+    "id": "site-0346",
+    "domain": "bluntspin.org",
+    "referral_url": "https://bluntspin.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bluntspin"
+  },
+  {
+    "id": "site-0347",
+    "domain": "me99.store",
+    "referral_url": "https://me99.store",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Me99"
+  },
+  {
+    "id": "site-0348",
+    "domain": "success88au.com",
+    "referral_url": "https://success88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Success88au"
+  },
+  {
+    "id": "site-0349",
+    "domain": "bng9au.com",
+    "referral_url": "https://bng9au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bng9au"
+  },
+  {
+    "id": "site-0350",
+    "domain": "mee88au.com",
+    "referral_url": "https://mee88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mee88au"
+  },
+  {
+    "id": "site-0351",
+    "domain": "sugartown7.com",
+    "referral_url": "https://sugartown7.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sugartown7"
+  },
+  {
+    "id": "site-0352",
+    "domain": "bngwin7.com",
+    "referral_url": "https://bngwin7.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bngwin7"
+  },
+  {
+    "id": "site-0353",
+    "domain": "meespin.com",
+    "referral_url": "https://meespin.com/RFA510A8716",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Meespin"
+  },
+  {
+    "id": "site-0354",
+    "domain": "super96.com",
+    "referral_url": "https://super96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Super96"
+  },
+  {
+    "id": "site-0355",
+    "domain": "bondi333.net",
+    "referral_url": "https://bondi333.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bondi333"
+  },
+  {
+    "id": "site-0356",
+    "domain": "mega98au.com",
+    "referral_url": "https://mega98au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mega98au"
+  },
+  {
+    "id": "site-0357",
+    "domain": "superaus.net",
+    "referral_url": "https://superaus.net/RF35A370030",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Superaus"
+  },
+  {
+    "id": "site-0358",
+    "domain": "bondibeachbet.net",
+    "referral_url": "https://bondibeachbet.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bondibeachbet"
+  },
+  {
+    "id": "site-0359",
+    "domain": "megabet26.com",
+    "referral_url": "https://megabet26.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Megabet26"
+  },
+  {
+    "id": "site-0360",
+    "domain": "supermateau.com",
+    "referral_url": "https://supermateau.com/RF22123052",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Supermateau"
+  },
+  {
+    "id": "site-0361",
+    "domain": "bonus96.com",
+    "referral_url": "https://bonus96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bonus96"
+  },
+  {
+    "id": "site-0362",
+    "domain": "mel77.com",
+    "referral_url": "https://mel77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mel77"
+  },
+  {
+    "id": "site-0363",
+    "domain": "supreme777.biz",
+    "referral_url": "https://supreme777.biz",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Supreme777"
+  },
+  {
+    "id": "site-0364",
+    "domain": "bonza7.com",
+    "referral_url": "https://bonza7.com/RFA07226177",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bonza7"
+  },
+  {
+    "id": "site-0365",
+    "domain": "meth365.net",
+    "referral_url": "https://meth365.net/RF391668222",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Meth365"
+  },
+  {
+    "id": "site-0366",
+    "domain": "svr33.com",
+    "referral_url": "https://svr33.com/RF38099071A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Svr33"
+  },
+  {
+    "id": "site-0367",
+    "domain": "bonza96.com",
+    "referral_url": "https://bonza96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bonza96"
+  },
+  {
+    "id": "site-0368",
+    "domain": "methday.net",
+    "referral_url": "https://methday.net/RFAA2578606",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Methday"
+  },
+  {
+    "id": "site-0369",
+    "domain": "sydspin.org",
+    "referral_url": "https://sydspin.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Sydspin"
+  },
+  {
+    "id": "site-0370",
+    "domain": "bonzaau.com",
+    "referral_url": "https://bonzaau.com/RF262A7996",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bonzaau"
+  },
+  {
+    "id": "site-0371",
+    "domain": "methfreak.net",
+    "referral_url": "https://methfreak.net/RF386572105",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Methfreak"
+  },
+  {
+    "id": "site-0372",
+    "domain": "tab77.vip",
+    "referral_url": "https://tab77.vip",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Tab77"
+  },
+  {
+    "id": "site-0373",
+    "domain": "bonzawin.win",
+    "referral_url": "https://bonzawin.win",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Bonzawin"
+  },
+  {
+    "id": "site-0374",
+    "domain": "methgg.net",
+    "referral_url": "https://methgg.net/RF395615935",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Methgg"
+  },
+  {
+    "id": "site-0375",
+    "domain": "tab968.co",
+    "referral_url": "https://tab968.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Tab968"
+  },
+  {
+    "id": "site-0376",
+    "domain": "boomerangaus.com",
+    "referral_url": "https://boomerangaus.com/RF365190962",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Boomerangaus"
+  },
+  {
+    "id": "site-0377",
+    "domain": "methking.com",
+    "referral_url": "https://methking.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Methking"
+  },
+  {
+    "id": "site-0378",
+    "domain": "tab99au.com",
+    "referral_url": "https://tab99au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Tab99au"
+  },
+  {
+    "id": "site-0379",
+    "domain": "boomerstake.club",
+    "referral_url": "https://boomerstake.club",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Boomerstake"
+  },
+  {
+    "id": "site-0380",
+    "domain": "methmate.com",
+    "referral_url": "https://methmate.com/RFA08119195",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Methmate"
+  },
+  {
+    "id": "site-0381",
+    "domain": "taxis33.cc",
+    "referral_url": "https://taxis33.cc",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Taxis33"
+  },
+  {
+    "id": "site-0382",
+    "domain": "boyabet9.net",
+    "referral_url": "https://boyabet9.net",
+    "http_status": "",
+    "http_status_label": "unknown",
+    "name": "Boyabet9"
+  },
+  {
+    "id": "site-0383",
+    "domain": "methmeth.vip",
+    "referral_url": "https://methmeth.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Methmeth"
+  },
+  {
+    "id": "site-0384",
+    "domain": "tcl99.com",
+    "referral_url": "https://tcl99.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Tcl99"
+  },
+  {
+    "id": "site-0385",
+    "domain": "bs22au.com",
+    "referral_url": "https://bs22au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bs22au"
+  },
+  {
+    "id": "site-0386",
+    "domain": "methspin.net",
+    "referral_url": "https://methspin.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Methspin"
+  },
+  {
+    "id": "site-0387",
+    "domain": "theoneau.co",
+    "referral_url": "https://theoneau.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Theoneau"
+  },
+  {
+    "id": "site-0388",
+    "domain": "bsb007.com",
+    "referral_url": "https://bsb007.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bsb007"
+  },
+  {
+    "id": "site-0389",
+    "domain": "mgm7au.com",
+    "referral_url": "https://mgm7au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mgm7au"
+  },
+  {
+    "id": "site-0390",
+    "domain": "thepokies33.com",
+    "referral_url": "https://thepokies33.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Thepokies33"
+  },
+  {
+    "id": "site-0391",
+    "domain": "bunny96.co",
+    "referral_url": "https://bunny96.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bunny96"
+  },
+  {
+    "id": "site-0392",
+    "domain": "midasvaultcasino.com",
+    "referral_url": "https://midasvaultcasino.com/RFA0A367290",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Midasvaultcasino"
+  },
+  {
+    "id": "site-0393",
+    "domain": "thepokies96.net",
+    "referral_url": "https://thepokies96.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Thepokies96"
+  },
+  {
+    "id": "site-0394",
+    "domain": "bx77au.com",
+    "referral_url": "https://bx77au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bx77au"
+  },
+  {
+    "id": "site-0395",
+    "domain": "mkaus.co",
+    "referral_url": "https://mkaus.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mkaus"
+  },
+  {
+    "id": "site-0396",
+    "domain": "thestarau.net",
+    "referral_url": "https://thestarau.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Thestarau"
+  },
+  {
+    "id": "site-0397",
+    "domain": "bybid9.tips",
+    "referral_url": "https://bybid9.tips",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Bybid9"
+  },
+  {
+    "id": "site-0398",
+    "domain": "mm29.org",
+    "referral_url": "https://mm29.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mm29"
+  },
+  {
+    "id": "site-0399",
+    "domain": "tnt99au.com",
+    "referral_url": "https://tnt99au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Tnt99au"
+  },
+  {
+    "id": "site-0400",
+    "domain": "call96.co",
+    "referral_url": "https://call96.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Call96"
+  },
+  {
+    "id": "site-0401",
+    "domain": "mm96.com",
+    "referral_url": "https://mm96.com/RF360152263",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mm96"
+  },
+  {
+    "id": "site-0402",
+    "domain": "tonygame7.com",
+    "referral_url": "https://tonygame7.com/RF37172237A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Tonygame7"
+  },
+  {
+    "id": "site-0403",
+    "domain": "candy96.vip",
+    "referral_url": "https://candy96.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Candy96"
+  },
+  {
+    "id": "site-0404",
+    "domain": "mmd9.net",
+    "referral_url": "https://mmd9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mmd9"
+  },
+  {
+    "id": "site-0405",
+    "domain": "top1au.net",
+    "referral_url": "https://top1au.net/RF3911289A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Top1au"
+  },
+  {
+    "id": "site-0406",
+    "domain": "candymommy.co",
+    "referral_url": "https://candymommy.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Candymommy"
+  },
+  {
+    "id": "site-0407",
+    "domain": "mofoaus.com",
+    "referral_url": "https://mofoaus.com/RF356919320",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mofoaus"
+  },
+  {
+    "id": "site-0408",
+    "domain": "topaz33.com",
+    "referral_url": "https://topaz33.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Topaz33"
+  },
+  {
+    "id": "site-0409",
+    "domain": "cashnet993.com",
+    "referral_url": "https://cashnet993.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Cashnet993"
+  },
+  {
+    "id": "site-0410",
+    "domain": "monoaud.com",
+    "referral_url": "https://monoaud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Monoaud"
+  },
+  {
+    "id": "site-0411",
+    "domain": "topbet9aud.com",
+    "referral_url": "https://topbet9aud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Topbet9aud"
+  },
+  {
+    "id": "site-0412",
+    "domain": "cashpokies.com",
+    "referral_url": "https://cashpokies.com/RF36252755A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cashpokies"
+  },
+  {
+    "id": "site-0413",
+    "domain": "mpokies.com",
+    "referral_url": "https://mpokies.com/RF368636819",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mpokies"
+  },
+  {
+    "id": "site-0414",
+    "domain": "topplayau.com",
+    "referral_url": "https://topplayau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Topplayau"
+  },
+  {
+    "id": "site-0415",
+    "domain": "cashsinoau.com",
+    "referral_url": "https://cashsinoau.com/RF36533AA59",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cashsinoau"
+  },
+  {
+    "id": "site-0416",
+    "domain": "mrau7.com",
+    "referral_url": "https://mrau7.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrau7"
+  },
+  {
+    "id": "site-0417",
+    "domain": "toystory9au.net",
+    "referral_url": "https://toystory9au.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Toystory9au"
+  },
+  {
+    "id": "site-0418",
+    "domain": "cbr8aus.net",
+    "referral_url": "https://cbr8aus.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cbr8aus"
+  },
+  {
+    "id": "site-0419",
+    "domain": "mrbean9au.cc",
+    "referral_url": "https://mrbean9au.cc",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrbean9au"
+  },
+  {
+    "id": "site-0420",
+    "domain": "trueblue777au.com",
+    "referral_url": "https://trueblue777au.com/RF27203190",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Trueblue777au"
+  },
+  {
+    "id": "site-0421",
+    "domain": "champion9.com",
+    "referral_url": "https://champion9.com/RF38102A385",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Champion9"
+  },
+  {
+    "id": "site-0422",
+    "domain": "mrbet96.com",
+    "referral_url": "https://mrbet96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrbet96"
+  },
+  {
+    "id": "site-0423",
+    "domain": "truebluebetscasino.com",
+    "referral_url": "https://truebluebetscasino.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Truebluebetscasino"
+  },
+  {
+    "id": "site-0424",
+    "domain": "clubimperioaus.com",
+    "referral_url": "https://clubimperioaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Clubimperioaus"
+  },
+  {
+    "id": "site-0425",
+    "domain": "mrbet9au.info",
+    "referral_url": "https://mrbet9au.info",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrbet9au"
+  },
+  {
+    "id": "site-0426",
+    "domain": "truewin77.co",
+    "referral_url": "https://truewin77.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Truewin77"
+  },
+  {
+    "id": "site-0427",
+    "domain": "coinmaster44.co",
+    "referral_url": "https://coinmaster44.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Coinmaster44"
+  },
+  {
+    "id": "site-0428",
+    "domain": "mrblueyau.com",
+    "referral_url": "https://mrblueyau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrblueyau"
+  },
+  {
+    "id": "site-0429",
+    "domain": "u88aud.com",
+    "referral_url": "https://u88aud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "U88aud"
+  },
+  {
+    "id": "site-0430",
+    "domain": "cokespin.com",
+    "referral_url": "https://cokespin.com/RFA13786071",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cokespin"
+  },
+  {
+    "id": "site-0431",
+    "domain": "mrboom9.vip",
+    "referral_url": "https://mrboom9.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrboom9"
+  },
+  {
+    "id": "site-0432",
+    "domain": "ubet66au.online",
+    "referral_url": "https://ubet66au.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ubet66au"
+  },
+  {
+    "id": "site-0433",
+    "domain": "cola13.me",
+    "referral_url": "https://cola13.me",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cola13"
+  },
+  {
+    "id": "site-0434",
+    "domain": "mrlucky9.com",
+    "referral_url": "https://mrlucky9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrlucky9"
+  },
+  {
+    "id": "site-0435",
+    "domain": "ufc66.com",
+    "referral_url": "https://ufc66.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ufc66"
+  },
+  {
+    "id": "site-0436",
+    "domain": "cpau365.co",
+    "referral_url": "https://cpau365.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cpau365"
+  },
+  {
+    "id": "site-0437",
+    "domain": "mrpay9.com",
+    "referral_url": "https://mrpay9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrpay9"
+  },
+  {
+    "id": "site-0438",
+    "domain": "ufo9.asia",
+    "referral_url": "https://ufo9.asia",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ufo9"
+  },
+  {
+    "id": "site-0439",
+    "domain": "cr33au.com",
+    "referral_url": "https://cr33au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cr33au"
+  },
+  {
+    "id": "site-0440",
+    "domain": "mrpokies77.com",
+    "referral_url": "https://mrpokies77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrpokies77"
+  },
+  {
+    "id": "site-0441",
+    "domain": "unitedau.online",
+    "referral_url": "https://unitedau.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Unitedau"
+  },
+  {
+    "id": "site-0442",
+    "domain": "crazyaus.co",
+    "referral_url": "https://crazyaus.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crazyaus"
+  },
+  {
+    "id": "site-0443",
+    "domain": "mrpokies9.net",
+    "referral_url": "https://mrpokies9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrpokies9"
+  },
+  {
+    "id": "site-0444",
+    "domain": "urichbet88.net",
+    "referral_url": "https://urichbet88.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Urichbet88"
+  },
+  {
+    "id": "site-0445",
+    "domain": "crikey7.com",
+    "referral_url": "https://crikey7.com/RF22A37A2A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crikey7"
+  },
+  {
+    "id": "site-0446",
+    "domain": "mrs99.net",
+    "referral_url": "https://mrs99.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrs99"
+  },
+  {
+    "id": "site-0447",
+    "domain": "uruswinfun.com",
+    "referral_url": "https://uruswinfun.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Uruswinfun"
+  },
+  {
+    "id": "site-0448",
+    "domain": "crn7.com",
+    "referral_url": "https://crn7.com/RFA29A12152",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crn7"
+  },
+  {
+    "id": "site-0449",
+    "domain": "mrspin9.bet",
+    "referral_url": "https://mrspin9.bet",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrspin9"
+  },
+  {
+    "id": "site-0450",
+    "domain": "uuspin58.vip",
+    "referral_url": "https://uuspin58.vip",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Uuspin58"
+  },
+  {
+    "id": "site-0451",
+    "domain": "crown69.co",
+    "referral_url": "https://crown69.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crown69"
+  },
+  {
+    "id": "site-0452",
+    "domain": "mrvictor9au.com",
+    "referral_url": "https://mrvictor9au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrvictor9au"
+  },
+  {
+    "id": "site-0453",
+    "domain": "uwin33au.club",
+    "referral_url": "https://uwin33au.club",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Uwin33au"
+  },
+  {
+    "id": "site-0454",
+    "domain": "crown777au.com",
+    "referral_url": "https://crown777au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crown777au"
+  },
+  {
+    "id": "site-0455",
+    "domain": "mrwin68.com",
+    "referral_url": "https://mrwin68.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrwin68"
+  },
+  {
+    "id": "site-0456",
+    "domain": "v12betau.net",
+    "referral_url": "https://v12betau.net/RFA51003869",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "V12betau"
+  },
+  {
+    "id": "site-0457",
+    "domain": "crown9au.com",
+    "referral_url": "https://crown9au.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Crown9au"
+  },
+  {
+    "id": "site-0458",
+    "domain": "mrwin77.com",
+    "referral_url": "https://mrwin77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Mrwin77"
+  },
+  {
+    "id": "site-0459",
+    "domain": "v2plus.me",
+    "referral_url": "https://v2plus.me",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "V2plus"
+  },
+  {
+    "id": "site-0460",
+    "domain": "crownau.com",
+    "referral_url": "https://crownau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crownau"
+  },
+  {
+    "id": "site-0461",
+    "domain": "n1aud.com",
+    "referral_url": "https://n1aud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "N1aud"
+  },
+  {
+    "id": "site-0462",
+    "domain": "v8spin.net",
+    "referral_url": "https://v8spin.net",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "V8spin"
+  },
+  {
+    "id": "site-0463",
+    "domain": "crownaud.net",
+    "referral_url": "https://crownaud.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crownaud"
+  },
+  {
+    "id": "site-0464",
+    "domain": "nc88au.com",
+    "referral_url": "https://nc88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Nc88au"
+  },
+  {
+    "id": "site-0465",
+    "domain": "venus55.com",
+    "referral_url": "https://venus55.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Venus55"
+  },
+  {
+    "id": "site-0466",
+    "domain": "crownbetking.com",
+    "referral_url": "https://crownbetking.com/RF21A70196",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crownbetking"
+  },
+  {
+    "id": "site-0467",
+    "domain": "neiro55.online",
+    "referral_url": "https://neiro55.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Neiro55"
+  },
+  {
+    "id": "site-0468",
+    "domain": "ves88.vip",
+    "referral_url": "https://ves88.vip/RF367161185",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Ves88"
+  },
+  {
+    "id": "site-0469",
+    "domain": "crownspin996.asia",
+    "referral_url": "https://crownspin996.asia",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Crownspin996"
+  },
+  {
+    "id": "site-0470",
+    "domain": "nelspin.com",
+    "referral_url": "https://nelspin.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Nelspin"
+  },
+  {
+    "id": "site-0471",
+    "domain": "vgs33.com",
+    "referral_url": "https://vgs33.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vgs33"
+  },
+  {
+    "id": "site-0472",
+    "domain": "cunt9.com",
+    "referral_url": "https://cunt9.com/RFA1A708235",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cunt9"
+  },
+  {
+    "id": "site-0473",
+    "domain": "neoaus96.com",
+    "referral_url": "https://neoaus96.com/RF3607311A0",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Neoaus96"
+  },
+  {
+    "id": "site-0474",
+    "domain": "victor96.com",
+    "referral_url": "https://victor96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Victor96"
+  },
+  {
+    "id": "site-0475",
+    "domain": "cuntcunt.co",
+    "referral_url": "https://cuntcunt.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cuntcunt"
+  },
+  {
+    "id": "site-0476",
+    "domain": "neolux.life",
+    "referral_url": "https://neolux.life",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Neolux"
+  },
+  {
+    "id": "site-0477",
+    "domain": "victoryaud.com",
+    "referral_url": "https://victoryaud.com/RFA503707A6",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Victoryaud"
+  },
+  {
+    "id": "site-0478",
+    "domain": "cunthaus.net",
+    "referral_url": "https://cunthaus.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cunthaus"
+  },
+  {
+    "id": "site-0479",
+    "domain": "nextpokies.net",
+    "referral_url": "https://nextpokies.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Nextpokies"
+  },
+  {
+    "id": "site-0480",
+    "domain": "vip31.com",
+    "referral_url": "https://vip31.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vip31"
+  },
+  {
+    "id": "site-0481",
+    "domain": "cuntsick.net",
+    "referral_url": "https://cuntsick.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cuntsick"
+  },
+  {
+    "id": "site-0482",
+    "domain": "nicepokies.com",
+    "referral_url": "https://nicepokies.com/RFA21255919",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Nicepokies"
+  },
+  {
+    "id": "site-0483",
+    "domain": "vip61.com",
+    "referral_url": "https://vip61.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vip61"
+  },
+  {
+    "id": "site-0484",
+    "domain": "cuntspin.net",
+    "referral_url": "https://cuntspin.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cuntspin"
+  },
+  {
+    "id": "site-0485",
+    "domain": "nova96.io",
+    "referral_url": "https://nova96.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Nova96"
+  },
+  {
+    "id": "site-0486",
+    "domain": "vip777au.net",
+    "referral_url": "https://vip777au.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vip777au"
+  },
+  {
+    "id": "site-0487",
+    "domain": "cuntwin.com",
+    "referral_url": "https://cuntwin.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cuntwin"
+  },
+  {
+    "id": "site-0488",
+    "domain": "novabet13.net",
+    "referral_url": "https://novabet13.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Novabet13"
+  },
+  {
+    "id": "site-0489",
+    "domain": "vip77au.com",
+    "referral_url": "https://vip77au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vip77au"
+  },
+  {
+    "id": "site-0490",
+    "domain": "cyberbet77.online",
+    "referral_url": "https://cyberbet77.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cyberbet77"
+  },
+  {
+    "id": "site-0491",
+    "domain": "nz22.net",
+    "referral_url": "https://nz22.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Nz22"
+  },
+  {
+    "id": "site-0492",
+    "domain": "vip99.com",
+    "referral_url": "https://vip99.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vip99"
+  },
+  {
+    "id": "site-0493",
+    "domain": "cyberpunk369.com",
+    "referral_url": "https://cyberpunk369.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Cyberpunk369"
+  },
+  {
+    "id": "site-0494",
+    "domain": "nz88au.com",
+    "referral_url": "https://nz88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Nz88au"
+  },
+  {
+    "id": "site-0495",
+    "domain": "virgin77.net",
+    "referral_url": "https://virgin77.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Virgin77"
+  },
+  {
+    "id": "site-0496",
+    "domain": "damnpokies.net",
+    "referral_url": "https://damnpokies.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Damnpokies"
+  },
+  {
+    "id": "site-0497",
+    "domain": "oakfold.net",
+    "referral_url": "https://oakfold.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Oakfold"
+  },
+  {
+    "id": "site-0498",
+    "domain": "vivid96.com",
+    "referral_url": "https://vivid96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vivid96"
+  },
+  {
+    "id": "site-0499",
+    "domain": "dd8au.com",
+    "referral_url": "https://dd8au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dd8au"
+  },
+  {
+    "id": "site-0500",
+    "domain": "okbet789.net",
+    "referral_url": "https://okbet789.net/RF28818316A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Okbet789"
+  },
+  {
+    "id": "site-0501",
+    "domain": "vpower2u.com",
+    "referral_url": "https://vpower2u.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vpower2u"
+  },
+  {
+    "id": "site-0502",
+    "domain": "ddpokies.com",
+    "referral_url": "https://ddpokies.com/RFA51650021",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ddpokies"
+  },
+  {
+    "id": "site-0503",
+    "domain": "okvip7.net",
+    "referral_url": "https://okvip7.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Okvip7"
+  },
+  {
+    "id": "site-0504",
+    "domain": "vpower8.net",
+    "referral_url": "https://vpower8.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vpower8"
+  },
+  {
+    "id": "site-0505",
+    "domain": "ddw99.com",
+    "referral_url": "https://ddw99.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ddw99"
+  },
+  {
+    "id": "site-0506",
+    "domain": "okwin33.net",
+    "referral_url": "https://okwin33.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Okwin33"
+  },
+  {
+    "id": "site-0507",
+    "domain": "vv33v.com",
+    "referral_url": "https://vv33v.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vv33v"
+  },
+  {
+    "id": "site-0508",
+    "domain": "decho34.vip",
+    "referral_url": "https://decho34.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Decho34"
+  },
+  {
+    "id": "site-0509",
+    "domain": "on88aus.io",
+    "referral_url": "https://on88aus.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "On88aus"
+  },
+  {
+    "id": "site-0510",
+    "domain": "vv88aud.com",
+    "referral_url": "https://vv88aud.com/RFA50232A72",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vv88aud"
+  },
+  {
+    "id": "site-0511",
+    "domain": "deespin.com",
+    "referral_url": "https://deespin.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Deespin"
+  },
+  {
+    "id": "site-0512",
+    "domain": "on9aud.com",
+    "referral_url": "https://on9aud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "On9aud"
+  },
+  {
+    "id": "site-0513",
+    "domain": "vvip15.com",
+    "referral_url": "https://vvip15.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Vvip15"
+  },
+  {
+    "id": "site-0514",
+    "domain": "dfl88.com",
+    "referral_url": "https://dfl88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dfl88"
+  },
+  {
+    "id": "site-0515",
+    "domain": "on9aus.com",
+    "referral_url": "https://on9aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "On9aus"
+  },
+  {
+    "id": "site-0516",
+    "domain": "warbet88.live",
+    "referral_url": "https://warbet88.live/RFA50A96797",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Warbet88"
+  },
+  {
+    "id": "site-0517",
+    "domain": "diamondaud.com",
+    "referral_url": "https://diamondaud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Diamondaud"
+  },
+  {
+    "id": "site-0518",
+    "domain": "on9pokies.com",
+    "referral_url": "https://on9pokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "On9pokies"
+  },
+  {
+    "id": "site-0519",
+    "domain": "wawawin.live",
+    "referral_url": "https://wawawin.live",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Wawawin"
+  },
+  {
+    "id": "site-0520",
+    "domain": "dick96.com",
+    "referral_url": "https://dick96.com/RFA50833969",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dick96"
+  },
+  {
+    "id": "site-0521",
+    "domain": "one2betaus.com",
+    "referral_url": "https://one2betaus.com/RFA13395626",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "One2betaus"
+  },
+  {
+    "id": "site-0522",
+    "domain": "wd40c.com",
+    "referral_url": "https://wd40c.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wd40c"
+  },
+  {
+    "id": "site-0523",
+    "domain": "dingospin.com",
+    "referral_url": "https://dingospin.com/RF3672179A0",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dingospin"
+  },
+  {
+    "id": "site-0524",
+    "domain": "onepiece13.co",
+    "referral_url": "https://onepiece13.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Onepiece13"
+  },
+  {
+    "id": "site-0525",
+    "domain": "weedpokies.org",
+    "referral_url": "https://weedpokies.org/RF21958021",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Weedpokies"
+  },
+  {
+    "id": "site-0526",
+    "domain": "dinkum33.com",
+    "referral_url": "https://dinkum33.com/RF23736366",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dinkum33"
+  },
+  {
+    "id": "site-0527",
+    "domain": "onewin9.com",
+    "referral_url": "https://onewin9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Onewin9"
+  },
+  {
+    "id": "site-0528",
+    "domain": "wegobet.co",
+    "referral_url": "https://wegobet.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wegobet"
+  },
+  {
+    "id": "site-0529",
+    "domain": "dinkydibets.com",
+    "referral_url": "https://dinkydibets.com/RF365A21213",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dinkydibets"
+  },
+  {
+    "id": "site-0530",
+    "domain": "online9vip.vip",
+    "referral_url": "https://online9vip.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Online9vip"
+  },
+  {
+    "id": "site-0531",
+    "domain": "wellmeth.com",
+    "referral_url": "https://wellmeth.com/RF398567A17",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wellmeth"
+  },
+  {
+    "id": "site-0532",
+    "domain": "dinkydidolla.pro",
+    "referral_url": "https://dinkydidolla.pro",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dinkydidolla"
+  },
+  {
+    "id": "site-0533",
+    "domain": "onya88.com",
+    "referral_url": "https://onya88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Onya88"
+  },
+  {
+    "id": "site-0534",
+    "domain": "wellpokies.com",
+    "referral_url": "https://wellpokies.com/RF398998896",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Wellpokies"
+  },
+  {
+    "id": "site-0535",
+    "domain": "dmd188.com",
+    "referral_url": "https://dmd188.com/RF26233201",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dmd188"
+  },
+  {
+    "id": "site-0536",
+    "domain": "onyxaud1.com",
+    "referral_url": "https://onyxaud1.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Onyxaud1"
+  },
+  {
+    "id": "site-0537",
+    "domain": "wepay7.com",
+    "referral_url": "https://wepay7.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Wepay7"
+  },
+  {
+    "id": "site-0538",
+    "domain": "dns33.com",
+    "referral_url": "https://dns33.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dns33"
+  },
+  {
+    "id": "site-0539",
+    "domain": "oz2win.co",
+    "referral_url": "https://oz2win.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Oz2win"
+  },
+  {
+    "id": "site-0540",
+    "domain": "weplay88.me",
+    "referral_url": "https://weplay88.me",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Weplay88"
+  },
+  {
+    "id": "site-0541",
+    "domain": "dollar33au.com",
+    "referral_url": "https://dollar33au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dollar33au"
+  },
+  {
+    "id": "site-0542",
+    "domain": "oz996.com",
+    "referral_url": "https://oz996.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Oz996"
+  },
+  {
+    "id": "site-0543",
+    "domain": "weplay9aus.com",
+    "referral_url": "https://weplay9aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Weplay9aus"
+  },
+  {
+    "id": "site-0544",
+    "domain": "dolphin88.co",
+    "referral_url": "https://dolphin88.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dolphin88"
+  },
+  {
+    "id": "site-0545",
+    "domain": "ozlotto88.net",
+    "referral_url": "https://ozlotto88.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ozlotto88"
+  },
+  {
+    "id": "site-0546",
+    "domain": "west28.net",
+    "referral_url": "https://west28.net",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "West28"
+  },
+  {
+    "id": "site-0547",
+    "domain": "dsyaus.com",
+    "referral_url": "https://dsyaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dsyaus"
+  },
+  {
+    "id": "site-0548",
+    "domain": "ozpokie.net",
+    "referral_url": "https://ozpokie.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ozpokie"
+  },
+  {
+    "id": "site-0549",
+    "domain": "whackaus.com",
+    "referral_url": "https://whackaus.com/RF355076526",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Whackaus"
+  },
+  {
+    "id": "site-0550",
+    "domain": "dubspin.org",
+    "referral_url": "https://dubspin.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Dubspin"
+  },
+  {
+    "id": "site-0551",
+    "domain": "ozreel88.com",
+    "referral_url": "https://ozreel88.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ozreel88"
+  },
+  {
+    "id": "site-0552",
+    "domain": "whackspin.net",
+    "referral_url": "https://whackspin.net/RFA06670196",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Whackspin"
+  },
+  {
+    "id": "site-0553",
+    "domain": "durameth.com",
+    "referral_url": "https://durameth.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Durameth"
+  },
+  {
+    "id": "site-0554",
+    "domain": "pashslot.com",
+    "referral_url": "https://pashslot.com/RFA517A5A31",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pashslot"
+  },
+  {
+    "id": "site-0555",
+    "domain": "wild88au.com",
+    "referral_url": "https://wild88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wild88au"
+  },
+  {
+    "id": "site-0556",
+    "domain": "e99aus.com",
+    "referral_url": "https://e99aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "E99aus"
+  },
+  {
+    "id": "site-0557",
+    "domain": "payid123.com",
+    "referral_url": "https://payid123.com/RF373121132",
+    "http_status": "403",
+    "http_status_label": "Client Error",
+    "name": "Payid123"
+  },
+  {
+    "id": "site-0558",
+    "domain": "wildngo.vip",
+    "referral_url": "https://wildngo.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wildngo"
+  },
+  {
+    "id": "site-0559",
+    "domain": "easypokies9.net",
+    "referral_url": "https://easypokies9.net/RF393212222",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Easypokies9"
+  },
+  {
+    "id": "site-0560",
+    "domain": "peakau.online",
+    "referral_url": "https://peakau.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Peakau"
+  },
+  {
+    "id": "site-0561",
+    "domain": "wildpokies9.com",
+    "referral_url": "https://wildpokies9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wildpokies9"
+  },
+  {
+    "id": "site-0562",
+    "domain": "eb7au.com",
+    "referral_url": "https://eb7au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Eb7au"
+  },
+  {
+    "id": "site-0563",
+    "domain": "penguin88.online",
+    "referral_url": "https://penguin88.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Penguin88"
+  },
+  {
+    "id": "site-0564",
+    "domain": "wildspin24.co",
+    "referral_url": "https://wildspin24.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wildspin24"
+  },
+  {
+    "id": "site-0565",
+    "domain": "eclbetau.io",
+    "referral_url": "https://eclbetau.io",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Eclbetau"
+  },
+  {
+    "id": "site-0566",
+    "domain": "pesi13.co",
+    "referral_url": "https://pesi13.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pesi13"
+  },
+  {
+    "id": "site-0567",
+    "domain": "wildvip.site",
+    "referral_url": "https://wildvip.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wildvip"
+  },
+  {
+    "id": "site-0568",
+    "domain": "ecstasybaby.vip",
+    "referral_url": "https://ecstasybaby.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ecstasybaby"
+  },
+  {
+    "id": "site-0569",
+    "domain": "pg9aus.com",
+    "referral_url": "https://pg9aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pg9aus"
+  },
+  {
+    "id": "site-0570",
+    "domain": "win19au.com",
+    "referral_url": "https://win19au.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Win19au"
+  },
+  {
+    "id": "site-0571",
+    "domain": "efa777.net",
+    "referral_url": "https://efa777.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Efa777"
+  },
+  {
+    "id": "site-0572",
+    "domain": "pingerspin.com",
+    "referral_url": "https://pingerspin.com/RF399A123AA",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Pingerspin"
+  },
+  {
+    "id": "site-0573",
+    "domain": "win365b.vip",
+    "referral_url": "https://win365b.vip/RF308709986",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Win365b"
+  },
+  {
+    "id": "site-0574",
+    "domain": "emerald777.co",
+    "referral_url": "https://emerald777.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Emerald777"
+  },
+  {
+    "id": "site-0575",
+    "domain": "pks996.com",
+    "referral_url": "https://pks996.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pks996"
+  },
+  {
+    "id": "site-0576",
+    "domain": "win7au.com",
+    "referral_url": "https://win7au.com/RF360709009",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Win7au"
+  },
+  {
+    "id": "site-0577",
+    "domain": "enjoy2aus.com",
+    "referral_url": "https://enjoy2aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Enjoy2aus"
+  },
+  {
+    "id": "site-0578",
+    "domain": "play369.co",
+    "referral_url": "https://play369.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Play369"
+  },
+  {
+    "id": "site-0579",
+    "domain": "winaud.cc",
+    "referral_url": "https://winaud.cc",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winaud"
+  },
+  {
+    "id": "site-0580",
+    "domain": "enjoy33.vip",
+    "referral_url": "https://enjoy33.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Enjoy33"
+  },
+  {
+    "id": "site-0581",
+    "domain": "play77au.com",
+    "referral_url": "https://play77au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Play77au"
+  },
+  {
+    "id": "site-0582",
+    "domain": "winbet96au.net",
+    "referral_url": "https://winbet96au.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winbet96au"
+  },
+  {
+    "id": "site-0583",
+    "domain": "enjoy96.com",
+    "referral_url": "https://enjoy96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Enjoy96"
+  },
+  {
+    "id": "site-0584",
+    "domain": "play99.co",
+    "referral_url": "https://play99.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Play99"
+  },
+  {
+    "id": "site-0585",
+    "domain": "winfortune777.com",
+    "referral_url": "https://winfortune777.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winfortune777"
+  },
+  {
+    "id": "site-0586",
+    "domain": "epicpokies.com",
+    "referral_url": "https://epicpokies.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Epicpokies"
+  },
+  {
+    "id": "site-0587",
+    "domain": "playaud1.com",
+    "referral_url": "https://playaud1.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Playaud1"
+  },
+  {
+    "id": "site-0588",
+    "domain": "winner29.co",
+    "referral_url": "https://winner29.co",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Winner29"
+  },
+  {
+    "id": "site-0589",
+    "domain": "ez9aus.net",
+    "referral_url": "https://ez9aus.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ez9aus"
+  },
+  {
+    "id": "site-0590",
+    "domain": "playaus.co",
+    "referral_url": "https://playaus.co/RF353738221",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Playaus"
+  },
+  {
+    "id": "site-0591",
+    "domain": "winnie777.net",
+    "referral_url": "https://winnie777.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winnie777"
+  },
+  {
+    "id": "site-0592",
+    "domain": "ezaud.com",
+    "referral_url": "https://ezaud.com/EzAud278775A07",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ezaud"
+  },
+  {
+    "id": "site-0593",
+    "domain": "playcunt.com",
+    "referral_url": "https://playcunt.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Playcunt"
+  },
+  {
+    "id": "site-0594",
+    "domain": "winrooau.com",
+    "referral_url": "https://winrooau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winrooau"
+  },
+  {
+    "id": "site-0595",
+    "domain": "ezspin68.com",
+    "referral_url": "https://ezspin68.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ezspin68"
+  },
+  {
+    "id": "site-0596",
+    "domain": "playfortuneau.com",
+    "referral_url": "https://playfortuneau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Playfortuneau"
+  },
+  {
+    "id": "site-0597",
+    "domain": "winstreak9.vip",
+    "referral_url": "https://winstreak9.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winstreak9"
+  },
+  {
+    "id": "site-0598",
+    "domain": "ezywin88.store",
+    "referral_url": "https://ezywin88.store",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ezywin88"
+  },
+  {
+    "id": "site-0599",
+    "domain": "playmeth.net",
+    "referral_url": "https://playmeth.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Playmeth"
+  },
+  {
+    "id": "site-0600",
+    "domain": "winvault77.org",
+    "referral_url": "https://winvault77.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winvault77"
+  },
+  {
+    "id": "site-0601",
+    "domain": "f88spins.net",
+    "referral_url": "https://f88spins.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "F88spins"
+  },
+  {
+    "id": "site-0602",
+    "domain": "pokie-stars.com",
+    "referral_url": "https://pokie-stars.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokie-stars"
+  },
+  {
+    "id": "site-0603",
+    "domain": "winx96.com",
+    "referral_url": "https://winx96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Winx96"
+  },
+  {
+    "id": "site-0604",
+    "domain": "fafa29.vip",
+    "referral_url": "https://fafa29.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fafa29"
+  },
+  {
+    "id": "site-0605",
+    "domain": "pokie365.com",
+    "referral_url": "https://pokie365.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokie365"
+  },
+  {
+    "id": "site-0606",
+    "domain": "wombats88.co",
+    "referral_url": "https://wombats88.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wombats88"
+  },
+  {
+    "id": "site-0607",
+    "domain": "fafaspin.com",
+    "referral_url": "https://fafaspin.com/RF35A390A35",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fafaspin"
+  },
+  {
+    "id": "site-0608",
+    "domain": "pokiepub.com",
+    "referral_url": "https://pokiepub.com",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Pokiepub"
+  },
+  {
+    "id": "site-0609",
+    "domain": "won29.com",
+    "referral_url": "https://won29.com/LUCKYWIN3739A9199",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Won29"
+  },
+  {
+    "id": "site-0610",
+    "domain": "fafawinaus.com",
+    "referral_url": "https://fafawinaus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fafawinaus"
+  },
+  {
+    "id": "site-0611",
+    "domain": "pokies123.com",
+    "referral_url": "https://pokies123.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokies123"
+  },
+  {
+    "id": "site-0612",
+    "domain": "won96.com",
+    "referral_url": "https://won96.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Won96"
+  },
+  {
+    "id": "site-0613",
+    "domain": "fairdinkumplay9.net",
+    "referral_url": "https://fairdinkumplay9.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fairdinkumplay9"
+  },
+  {
+    "id": "site-0614",
+    "domain": "pokies21.net",
+    "referral_url": "https://pokies21.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokies21"
+  },
+  {
+    "id": "site-0615",
+    "domain": "world99.online",
+    "referral_url": "https://world99.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "World99"
+  },
+  {
+    "id": "site-0616",
+    "domain": "fairgo77.com",
+    "referral_url": "https://fairgo77.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fairgo77"
+  },
+  {
+    "id": "site-0617",
+    "domain": "pokies33aus.com",
+    "referral_url": "https://pokies33aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokies33aus"
+  },
+  {
+    "id": "site-0618",
+    "domain": "wowmeth.com",
+    "referral_url": "https://wowmeth.com/RFA06973572",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Wowmeth"
+  },
+  {
+    "id": "site-0619",
+    "domain": "fairgobets.vip",
+    "referral_url": "https://fairgobets.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fairgobets"
+  },
+  {
+    "id": "site-0620",
+    "domain": "pokies4bet.com",
+    "referral_url": "https://pokies4bet.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokies4bet"
+  },
+  {
+    "id": "site-0621",
+    "domain": "wtfbet.net",
+    "referral_url": "https://wtfbet.net/RFAA3995A31",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Wtfbet"
+  },
+  {
+    "id": "site-0622",
+    "domain": "fastspinau.com",
+    "referral_url": "https://fastspinau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fastspinau"
+  },
+  {
+    "id": "site-0623",
+    "domain": "pokies7bet.co",
+    "referral_url": "https://pokies7bet.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokies7bet"
+  },
+  {
+    "id": "site-0624",
+    "domain": "wtfslot.net",
+    "referral_url": "https://wtfslot.net/RFA5115A150",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wtfslot"
+  },
+  {
+    "id": "site-0625",
+    "domain": "fatchoy66.club",
+    "referral_url": "https://fatchoy66.club/RFA179299A1",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fatchoy66"
+  },
+  {
+    "id": "site-0626",
+    "domain": "pokies9au.com",
+    "referral_url": "https://pokies9au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokies9au"
+  },
+  {
+    "id": "site-0627",
+    "domain": "wtfspin.net",
+    "referral_url": "https://wtfspin.net/RFAA1A3A539",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Wtfspin"
+  },
+  {
+    "id": "site-0628",
+    "domain": "favspin.org",
+    "referral_url": "https://favspin.org/RFA517A53AA",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Favspin"
+  },
+  {
+    "id": "site-0629",
+    "domain": "pokies9aus.com",
+    "referral_url": "https://pokies9aus.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokies9aus"
+  },
+  {
+    "id": "site-0630",
+    "domain": "wthspinau.com",
+    "referral_url": "https://wthspinau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wthspinau"
+  },
+  {
+    "id": "site-0631",
+    "domain": "fc8au.com",
+    "referral_url": "https://fc8au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fc8au"
+  },
+  {
+    "id": "site-0632",
+    "domain": "pokiesbae.net",
+    "referral_url": "https://pokiesbae.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesbae"
+  },
+  {
+    "id": "site-0633",
+    "domain": "wynnbetau.com",
+    "referral_url": "https://wynnbetau.com",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Wynnbetau"
+  },
+  {
+    "id": "site-0634",
+    "domain": "fendiwin9.co",
+    "referral_url": "https://fendiwin9.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fendiwin9"
+  },
+  {
+    "id": "site-0635",
+    "domain": "pokiesbillion.co",
+    "referral_url": "https://pokiesbillion.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesbillion"
+  },
+  {
+    "id": "site-0636",
+    "domain": "wynnpokies.com",
+    "referral_url": "https://wynnpokies.com/RF390033803",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Wynnpokies"
+  },
+  {
+    "id": "site-0637",
+    "domain": "ff29.co",
+    "referral_url": "https://ff29.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ff29"
+  },
+  {
+    "id": "site-0638",
+    "domain": "pokiesdream.org",
+    "referral_url": "https://pokiesdream.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesdream"
+  },
+  {
+    "id": "site-0639",
+    "domain": "x2baby.com",
+    "referral_url": "https://x2baby.com/RF391667918",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "X2baby"
+  },
+  {
+    "id": "site-0640",
+    "domain": "ff96.co",
+    "referral_url": "https://ff96.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Ff96"
+  },
+  {
+    "id": "site-0641",
+    "domain": "pokiesfox.com",
+    "referral_url": "https://pokiesfox.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesfox"
+  },
+  {
+    "id": "site-0642",
+    "domain": "x2meth.com",
+    "referral_url": "https://x2meth.com",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "X2meth"
+  },
+  {
+    "id": "site-0643",
+    "domain": "ffspin.org",
+    "referral_url": "https://ffspin.org",
+    "http_status": "",
+    "http_status_label": "Unreachable",
+    "name": "Ffspin"
+  },
+  {
+    "id": "site-0644",
+    "domain": "pokiesgg.vip",
+    "referral_url": "https://pokiesgg.vip",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesgg"
+  },
+  {
+    "id": "site-0645",
+    "domain": "x4betau.net",
+    "referral_url": "https://x4betau.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "X4betau"
+  },
+  {
+    "id": "site-0646",
+    "domain": "fight22.com",
+    "referral_url": "https://fight22.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fight22"
+  },
+  {
+    "id": "site-0647",
+    "domain": "pokiesgod.com",
+    "referral_url": "https://pokiesgod.com",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Pokiesgod"
+  },
+  {
+    "id": "site-0648",
+    "domain": "xox96.net",
+    "referral_url": "https://xox96.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Xox96"
+  },
+  {
+    "id": "site-0649",
+    "domain": "fightpokies.com",
+    "referral_url": "https://fightpokies.com/RFA10501222",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Fightpokies"
+  },
+  {
+    "id": "site-0650",
+    "domain": "pokiesking1.co",
+    "referral_url": "https://pokiesking1.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesking1"
+  },
+  {
+    "id": "site-0651",
+    "domain": "xpay33.org",
+    "referral_url": "https://xpay33.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Xpay33"
+  },
+  {
+    "id": "site-0652",
+    "domain": "first96.com",
+    "referral_url": "https://first96.com/RFA50805393",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "First96"
+  },
+  {
+    "id": "site-0653",
+    "domain": "pokieskingau.com",
+    "referral_url": "https://pokieskingau.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokieskingau"
+  },
+  {
+    "id": "site-0654",
+    "domain": "xpay9.com",
+    "referral_url": "https://xpay9.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Xpay9"
+  },
+  {
+    "id": "site-0655",
+    "domain": "fortune88au.com",
+    "referral_url": "https://fortune88au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fortune88au"
+  },
+  {
+    "id": "site-0656",
+    "domain": "pokieskingdom.net",
+    "referral_url": "https://pokieskingdom.net",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokieskingdom"
+  },
+  {
+    "id": "site-0657",
+    "domain": "xwin96.co",
+    "referral_url": "https://xwin96.co",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Xwin96"
+  },
+  {
+    "id": "site-0658",
+    "domain": "fortunex99.co",
+    "referral_url": "https://fortunex99.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fortunex99"
+  },
+  {
+    "id": "site-0659",
+    "domain": "pokiesme.net",
+    "referral_url": "https://pokiesme.net/RFA36630552",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesme"
+  },
+  {
+    "id": "site-0660",
+    "domain": "yeah96.co",
+    "referral_url": "https://yeah96.co",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Yeah96"
+  },
+  {
+    "id": "site-0661",
+    "domain": "fridayfriday.org",
+    "referral_url": "https://fridayfriday.org",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fridayfriday"
+  },
+  {
+    "id": "site-0662",
+    "domain": "pokiesnow.net",
+    "referral_url": "https://pokiesnow.net/RFAA5553013",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesnow"
+  },
+  {
+    "id": "site-0663",
+    "domain": "yes77au.com",
+    "referral_url": "https://yes77au.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Yes77au"
+  },
+  {
+    "id": "site-0664",
+    "domain": "fuckfuck.cc",
+    "referral_url": "https://fuckfuck.cc",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Fuckfuck"
+  },
+  {
+    "id": "site-0665",
+    "domain": "pokiesproo.com",
+    "referral_url": "https://pokiesproo.com/RFAA9126097",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesproo"
+  },
+  {
+    "id": "site-0666",
+    "domain": "yypokies.com",
+    "referral_url": "https://yypokies.com/RFAA9A6678A",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Yypokies"
+  },
+  {
+    "id": "site-0667",
+    "domain": "fuckingmeth.net",
+    "referral_url": "https://fuckingmeth.net",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Fuckingmeth"
+  },
+  {
+    "id": "site-0668",
+    "domain": "pokiesstation.com",
+    "referral_url": "https://pokiesstation.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesstation"
+  },
+  {
+    "id": "site-0669",
+    "domain": "zebra88.online",
+    "referral_url": "https://zebra88.online",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Zebra88"
+  },
+  {
+    "id": "site-0670",
+    "domain": "fuckspin.vip",
+    "referral_url": "https://fuckspin.vip",
+    "http_status": "",
+    "http_status_label": "Error",
+    "name": "Fuckspin"
+  },
+  {
+    "id": "site-0671",
+    "domain": "pokiesvv.com",
+    "referral_url": "https://pokiesvv.com/RFA51763552",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiesvv"
+  },
+  {
+    "id": "site-0672",
+    "domain": "zeroaud.site",
+    "referral_url": "https://zeroaud.site",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Zeroaud"
+  },
+  {
+    "id": "site-0673",
+    "domain": "funcity93.com",
+    "referral_url": "https://funcity93.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Funcity93"
+  },
+  {
+    "id": "site-0674",
+    "domain": "pokiexau.bet",
+    "referral_url": "https://pokiexau.bet/RFAA9873007",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokiexau"
+  },
+  {
+    "id": "site-0675",
+    "domain": "zircon33.cc",
+    "referral_url": "https://zircon33.cc",
+    "http_status": "520",
+    "http_status_label": "Server Error",
+    "name": "Zircon33"
+  },
+  {
+    "id": "site-0676",
+    "domain": "funplayaud.com",
+    "referral_url": "https://funplayaud.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Funplayaud"
+  },
+  {
+    "id": "site-0677",
+    "domain": "pokyspin.net",
+    "referral_url": "https://pokyspin.net/RF3889A72AA",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Pokyspin"
+  },
+  {
+    "id": "site-0678",
+    "domain": "funpokies.win",
+    "referral_url": "https://funpokies.win",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Funpokies"
+  },
+  {
+    "id": "site-0679",
+    "domain": "powerball996.com",
+    "referral_url": "https://powerball996.com",
+    "http_status": "200",
+    "http_status_label": "Live",
+    "name": "Powerball996"
+  }
+]
